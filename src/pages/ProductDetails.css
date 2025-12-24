@@ -1,0 +1,29 @@
+.product-card {
+  width: 14rem;
+  border: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  position: relative;
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+.product-img {
+  height: 200px;
+  object-fit: contain;
+  background-color: #f9f9f9;
+}
+
+.heart-icon {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  color: #999;
+}
+
+.text-line-through {
+  text-decoration: line-through;
+}

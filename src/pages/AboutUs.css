@@ -1,0 +1,17 @@
+.about-hero {
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 1px 2px 6px rgba(0,0,0,0.7);
+}
+
+.values-section h5 {
+  font-size: 1.2rem;
+  color: #FF69B4;
+}
+
+.values-section p {
+  font-size: 0.95rem;
+}

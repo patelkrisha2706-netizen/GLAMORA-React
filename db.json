@@ -1,0 +1,3318 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "id": "2",
+      "name": "Necklace",
+      "path": "/necklace"
+    },
+    {
+      "id": "3",
+      "name": "Ring",
+      "path": "/rings"
+    },
+    {
+      "id": "4",
+      "name": "Earring",
+      "path": "/earrings"
+    },
+    {
+      "id": "5",
+      "name": "Bracelet",
+      "path": "/bracelets"
+    },
+    {
+      "id": "6",
+      "name": "Mens",
+      "path": "/mens"
+    },
+    {
+      "id": "7",
+      "name": "About Us",
+      "path": "/about"
+    },
+    {
+      "id": "8",
+      "name": "Contact Us",
+      "path": "/contact"
+    }
+  ],
+  "category": [
+    {
+      "cid": 1,
+      "cname": "necklaces",
+      "description": "with unique designs",
+      "id": "c130"
+    },
+    {
+      "cid": 2,
+      "cname": "rings",
+      "description": "Radiant Rings",
+      "id": "bd96"
+    },
+    {
+      "cid": 3,
+      "cname": "earrings",
+      "description": "traditional designs",
+      "id": "d7a7"
+    },
+    {
+      "cid": 4,
+      "cname": "Bracelet",
+      "description": "with elegant designs",
+      "id": "2196"
+    },
+    {
+      "cid": 5,
+      "cname": "Mens",
+      "description": "Has lots of unique varieties",
+      "id": "966c"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "pname": "Green Emerald Necklace",
+      "description": "Length- 42+6cm,Pendant Height - 1.5cm , Width - 0.5 cm,Weight - 4 gm",
+      "image": "/image/n2.jpg",
+      "price": 3021,
+      "cid": 1,
+      "created_at": "2025-10-16T05:50:09"
+    },
+    {
+      "id": "5",
+      "pname": "Black Vixen Necklace",
+      "description": "Length - 42.5+6 cm,Weight - 2.7 gm",
+      "image": "/image/n5.jpg",
+      "price": 3120,
+      "cid": 1,
+      "created_at": "2025-11-25T12:51:57"
+    },
+    {
+      "id": "6",
+      "pname": "Ribbon Pendant Necklace",
+      "description": "Base Metal : Stainless Steel,Plating : Gold Plated, Chain Length - 40+6.5 cm,Chain Weight - 3.5 gm,Pendant, Length - 1 cm , Width - 1 cm,Closure : Lobster Claw",
+      "image": "/image/n6.jpg",
+      "price": 1227,
+      "cid": 1,
+      "created_at": "2025-09-03T14:23:39"
+    },
+    {
+      "id": "7",
+      "pname": "Paris Heart Necklace",
+      "description": "Length- 40+6 cm, Pendant- 0.9 cm, Weight- 3 g,Size- Adjustable,Colour- Gold,Plating- 18k gold tone plated,Material- Stainless Steel",
+      "image": "/image/n7.jpg",
+      "price": 2105,
+      "cid": 1,
+      "created_at": "2025-09-06T16:39:01"
+    },
+    {
+      "id": "8",
+      "pname": "Classic Emerald Necklace",
+      "description": "Length- 42+6cm,Pendant Height - 1.5cm , Width - 0.5 cm,Weight - 4 gm",
+      "image": "/image/n8.jpg",
+      "price": 3021,
+      "cid": 1,
+      "created_at": "2025-10-22T11:07:40"
+    },
+    {
+      "id": "9",
+      "pname": "Cuban Chain Hollow Heart Necklace",
+      "description": "Length -39+6.5 cm,Weight - 20gm,Colour- Gold,Plating- 18k gold tone plated,Material- Stainless Steel",
+      "image": "/image/n9.jpg",
+      "price": "1234",
+      "cid": 1,
+      "created_at": "2025-09-10T15:57:39"
+    },
+    {
+      "id": "11",
+      "pname": "Gilded Rings Layered Necklace",
+      "description": "Introducing our all-new Gilded Rings Layered Necklace.",
+      "image": "/image/n11.jpg",
+      "price": "4321",
+      "cid": 1,
+      "created_at": "2025-09-07T13:32:15"
+    },
+    {
+      "id": "12",
+      "pname": "Heart Rays Necklace",
+      "description": "Size- Adjustable,Length - 40+6 cm,Pendant length - 2cm , Width - 1.5cm,Weight - 7 gm,Colour- Gold,Plating- 18k gold tone plated",
+      "image": "/image/n12.jpg",
+      "price": 2145,
+      "cid": 1,
+      "created_at": "2025-10-18T07:31:15"
+    },
+    {
+      "id": "13",
+      "pname": "Tree of Life Necklace",
+      "description": "Chain Size- 36 +6cm Adjustable ,Pendant Size- L -2.5 cm,  Width - 2cm Weight -7.7gm,Diamonds- 1mm,Colour- Gold,Plating- 18k gold tone plated",
+      "image": "/image/n13.jpg",
+      "price": 2245,
+      "cid": 1,
+      "created_at": "2025-10-03T09:27:34"
+    },
+    {
+      "id": "14",
+      "pname": "Single Pearl Necklace",
+      "description": "Length - 36+7 cm,Weight - 2.6 gm",
+      "image": "/image/n14.jpg",
+      "price": 1245,
+      "cid": 1,
+      "created_at": "2025-11-15T08:20:34"
+    },
+    {
+      "id": "15",
+      "pname": "Drop Bead Necklace",
+      "description": "Length - 36+6 cm,Weight - 3.1 gm",
+      "image": "/image/n15.jpg",
+      "price": 2234,
+      "cid": 1,
+      "created_at": "2025-10-26T10:19:02"
+    },
+    {
+      "id": "16",
+      "pname": "Red Emerald Heart Pendant Necklace",
+      "description": "Chain Size- 40+ 6 Adjustable,Pendant Size -1 cm, W -9mm,Weight - 3.6 gm",
+      "image": "/image/n16.jpg",
+      "price": 2145,
+      "cid": 1,
+      "created_at": "2025-09-06T12:46:58"
+    },
+    {
+      "id": "17",
+      "pname": "Prismatic Harmony Necklace",
+      "description": "The Prismatic Harmony Necklace features gleaming gemstones in a kaleidoscope of hues that meld seamlessly. ",
+      "image": "/image/n17.jpg",
+      "price": 2145,
+      "cid": 1,
+      "created_at": "2025-10-18T00:47:34"
+    },
+    {
+      "id": "18",
+      "pname": "Delicate Moonstone Necklace",
+      "description": "Length- 40+6.5 cm, Pendant Length- 1.5 cm, Weight- 3 g,Size- Adjustable,Colour- Gold,Stone- Semi Precious,Plating- 18k gold tone plated,Stone- Zirconia Crystal",
+      "image": "/image/n18.jpg",
+      "price": 2145,
+      "cid": 1,
+      "created_at": "2025-11-06T12:05:58"
+    },
+    {
+      "id": "19",
+      "pname": "Small Letter Necklace",
+      "description": "Colour- Gold,Plating- 18k gold tone plated Plated",
+      "image": "/image/n19.jpg",
+      "price": 2145,
+      "cid": 1,
+      "created_at": "2025-10-18T21:59:55"
+    },
+    {
+      "id": "20",
+      "pname": "Round Belle Three Layer Necklace",
+      "description": "Base Metal : Stainless Steel,Plating : Gold Plated,Chain Length : Short/Chest Length (26 cms),Closure : Lobster Claw,Length - 41+6 cm,Weight - 10gm",
+      "image": "/image/n20.jpg",
+      "price": 2145,
+      "cid": 1,
+      "created_at": "2025-09-15T10:42:03"
+    },
+    {
+      "id": "29",
+      "pname": "Single Pearl Necklace",
+      "description": "Introducing the Single Pearl Necklace. This necklace features a strand of meticulously arranged bead",
+      "image": "/image/n29.jpg",
+      "price": 2289,
+      "cid": 1,
+      "created_at": "2025-09-10T10:56:44"
+    },
+    {
+      "id": "30",
+      "pname": "Drop Bead Necklace",
+      "description": "Elevate your style with the enchanting beauty of our Drop Bead Necklace, an exquisite pendant design",
+      "image": "/image/n30.jpg",
+      "price": 2273,
+      "cid": 1,
+      "created_at": "2025-11-20T21:46:05"
+    },
+    {
+      "id": "31",
+      "pname": "Red Emerald Heart Pendant Necklace",
+      "description": "Chain Size- 40+ 6 Adjustable Pendant Size -1 cm, W -9mm Weight - 3.6 gm Color- Gold Plating- 18k",
+      "image": "/image/n31.jpg",
+      "price": 2346,
+      "cid": 1,
+      "created_at": "2025-11-17T03:11:17"
+    },
+    {
+      "id": "32",
+      "pname": "Delicate Layered Necklace",
+      "description": "Length- 40+ 6.5 cm, Pendant Length- 1.5 cm, Weight- 3 g, Size- Adjustable, Color- Gold, Stone- Sem",
+      "image": "/image/n32.jpg",
+      "price": 2330,
+      "cid": 1,
+      "created_at": "2025-10-05T16:14:09"
+    },
+    {
+      "id": "33",
+      "pname": "Wobbly Oval Necklace",
+      "description": "Size- Adjustable Color- Gold Plating- 18k gold tone plated Material- Stainless Steel",
+      "image": "/image/n33.jpg",
+      "price": 2258,
+      "cid": 1,
+      "created_at": "2025-09-10T08:40:36"
+    },
+    {
+      "id": "34",
+      "pname": "Round Belle Three Layer Necklace",
+      "description": "Base Metal: Stainless Steel, Plating: Gold Plated, Chain Length: Short/Chest Length (26 cms)",
+      "image": "/image/n34.jpg",
+      "price": 2250,
+      "cid": 1,
+      "created_at": "2025-09-02T19:52:59"
+    },
+    {
+      "id": "35",
+      "pname": "Rope N Snake Chain",
+      "description": "Base Metal: Stainless Steel, Plating: Gold Plated, Chain Length: Short/Chest Length (26 cms)",
+      "image": "/image/n35.jpg",
+      "price": 2580,
+      "cid": 1,
+      "created_at": "2025-10-27T00:51:52"
+    },
+    {
+      "id": "36",
+      "pname": "Multiple Stones Necklace",
+      "description": "Size: Adjustable, Color: Gold, Plating: 18k gold tone plated, Material: Stainless Steel",
+      "image": "/image/n36.jpg",
+      "price": 2580,
+      "cid": 1,
+      "created_at": "2025-11-18T01:36:59"
+    },
+    {
+      "id": "37",
+      "pname": "Dazzling Emerald Necklace",
+      "description": "Size: Adjustable, Length: 40 + 5.5 cm, Pendant Length: 2 cm, Width: 1 cm, Weight: 3 gm, Color: Gold",
+      "image": "/image/n37.jpg",
+      "price": 2366,
+      "cid": 1,
+      "created_at": "2025-10-04T12:16:23"
+    },
+    {
+      "id": "38",
+      "pname": "Golden Infinity Necklace",
+      "description": "Length: 41 + 8 cm, Weight: 3.7 gm",
+      "image": "/image/n38.jpg",
+      "price": 2235,
+      "cid": 1,
+      "created_at": "2025-11-07T15:00:56"
+    },
+    {
+      "id": "39",
+      "pname": "Little Butterfly Necklace",
+      "description": "Base Metal: Stainless Steel, Plating: 18k Gold Plated, Chain Length: Short/Chest Length (25 cms)",
+      "image": "/image/n39.jpg",
+      "price": 1868,
+      "cid": 1,
+      "created_at": "2025-10-10T12:37:27"
+    },
+    {
+      "id": "40",
+      "pname": "Gold Beaded Necklace",
+      "description": "Length: 40 + 5 cm, Weight: 3 gm, Color: Gold",
+      "image": "/image/n40.jpg",
+      "price": 2299,
+      "cid": 1,
+      "created_at": "2025-09-07T23:59:38"
+    },
+    {
+      "id": "41",
+      "pname": "Emerald Love Necklace",
+      "description": "This captivating piece embodies the true essence of love with the shimmering green stone nestled wit",
+      "image": "/image/n41.jpg",
+      "price": 2132,
+      "cid": 1,
+      "created_at": "2025-10-27T07:44:30"
+    },
+    {
+      "id": "42",
+      "pname": "Evil Eye Necklace",
+      "description": "Chain Length: 40 + 7 cm, Pendant Length: 0.8 cm, Width: 0.5 cm, Weight: 2.8 gm",
+      "image": "/image/n42.jpg",
+      "price": 2999,
+      "cid": 1,
+      "created_at": "2025-09-16T03:45:55"
+    },
+    {
+      "id": "43",
+      "pname": "Golden Boomerang Necklace",
+      "description": "Length: 44.5 + 6 cm, Weight: 15 gm",
+      "image": "/image/n43.jpg",
+      "price": 2910,
+      "cid": 1,
+      "created_at": "2025-09-28T15:06:15"
+    },
+    {
+      "id": "44",
+      "pname": "Double Chain Delight Necklace",
+      "description": "Chain 1 Length: 41 + 6 cm Adjustable, Chain 2 Length: 45 + 6 cm Adjustable, Weight: 10.3 gm, Color: Gold",
+      "image": "/image/n44.jpg",
+      "price": 2346,
+      "cid": 1,
+      "created_at": "2025-11-08T07:56:15"
+    },
+    {
+      "id": "45",
+      "pname": "Octagon Diamond Necklace",
+      "description": "Embrace timeless beauty with the Octagon Diamond Necklace. A captivating octagonal diamond rests at",
+      "image": "/image/n45.jpg",
+      "price": 3104,
+      "cid": 1,
+      "created_at": "2025-10-22T01:01:11"
+    },
+    {
+      "id": "46",
+      "pname": "Delicate Pearl Necklace",
+      "description": "Base Metal: Stainless Steel, Plating: 18k Gold Plated, Chain Length: Short/Chest Length (23 cms)",
+      "image": "/image/n46.jpg",
+      "price": 2366,
+      "cid": 1,
+      "created_at": "2025-10-21T16:51:47"
+    },
+    {
+      "id": "47",
+      "pname": "Stone & Strand Necklace",
+      "description": "Size: Adjustable, Length: 40.5 + 6.5 cm, Weight: 2.2 gm, Color: Gold, Plating: 18k gold tone pla",
+      "image": "/image/n47.jpg",
+      "price": 2540,
+      "cid": 1,
+      "created_at": "2025-09-04T06:53:18"
+    },
+    {
+      "id": "48",
+      "pname": "Beaded Chain Necklace",
+      "description": "Size: Adjustable, Color: Gold, Plating: 18k gold tone plated, Material: Stainless Steel",
+      "image": "/image/n48.jpg",
+      "price": 1744,
+      "cid": 1,
+      "created_at": "2025-09-06T22:09:02"
+    },
+    {
+      "id": "49",
+      "pname": "Sparkling Hearts Gold Necklace",
+      "description": "Base Metal: Stainless Steel, Plating: Gold Tone, Chain Length: Short/Chest Length (41 + 6.5 cms)",
+      "image": "/image/n49.jpg",
+      "price": 2667,
+      "cid": 1,
+      "created_at": "2025-09-28T05:57:36"
+    },
+    {
+      "id": "50",
+      "pname": "Double layer choker necklace",
+      "description": "Size: 16'' + 2'' Adjustable, Plating: 18k gold tone plated, Color: Gold, Material: Surgical Stainless",
+      "image": "/image/n50.jpg",
+      "price": 1899,
+      "cid": 1,
+      "created_at": "2025-10-24T05:14:30"
+    },
+    {
+      "id": "51",
+      "pname": "Moon Charm Necklace",
+      "description": "Embrace celestial allure with our Moon Charm Necklace, the latest design in contemporary necklaces f",
+      "image": "/image/n51.jpg",
+      "price": 2644,
+      "cid": 1,
+      "created_at": "2025-11-19T10:51:23"
+    },
+    {
+      "id": "52",
+      "pname": "Golden Cross Necklace",
+      "description": "Length: 39 + 6 cm, Weight: 1.7 gm, Pendant length: 1.7 cm, Width: 1 cm",
+      "image": "/image/n52.jpg",
+      "price": 1973,
+      "cid": 1,
+      "created_at": "2025-09-01T22:38:54"
+    },
+    {
+      "id": "53",
+      "pname": "Two-Layered Heart Charm Necklace",
+      "description": "Length: 39 + 6 cm, Weight: 6 gm",
+      "image": "/image/n53.jpg",
+      "price": 2562,
+      "cid": 1,
+      "created_at": "2025-09-15T14:43:48"
+    },
+    {
+      "id": "54",
+      "pname": "Tiny Horn Necklace",
+      "description": "Size: Adjustable, Color: Gold, Plating: 18k gold tone plated",
+      "image": "/image/n54.jpg",
+      "price": 1580,
+      "cid": 1,
+      "created_at": "2025-11-15T13:27:49"
+    },
+    {
+      "id": "55",
+      "pname": "Golden Layers With Stone Necklace",
+      "description": "Length: 35 + 6 cm, Weight: 7.5 gm",
+      "image": "/image/n55.jpg",
+      "price": 3055,
+      "cid": 1,
+      "created_at": "2025-11-25T19:19:49"
+    },
+    {
+      "id": "56",
+      "pname": "Simple Chain Necklace with Star Charm",
+      "description": "Elevate your style with our sophisticated layered chain necklace featuring a stunning pearl drop",
+      "image": "/image/n56.jpg",
+      "price": 1479,
+      "cid": 1,
+      "created_at": "2025-10-29T00:01:25"
+    },
+    {
+      "id": "57",
+      "pname": "Black Enamel Necklace",
+      "description": "Size: Adjustable, Color: Gold, Plating: 18k gold tone plated, Material: Stainless Steel",
+      "image": "/image/n57.jpg",
+      "price": 3118,
+      "cid": 1,
+      "created_at": "2025-10-08T09:16:57"
+    },
+    {
+      "id": "58",
+      "pname": "Dainty Beaded Pearl Chain",
+      "description": "Length: 56 cm, Weight: 4.6 gm",
+      "image": "/image/n58.jpg",
+      "price": 2366,
+      "cid": 1,
+      "created_at": "2025-09-01T20:49:19"
+    },
+    {
+      "id": "59",
+      "pname": "Linked Circles Harmony Necklace",
+      "description": "Length: 43 + 6.5 cm, Weight: 3.1 gm",
+      "image": "/image/n59.jpg",
+      "price": 2550,
+      "cid": 1,
+      "created_at": "2025-09-30T20:44:29"
+    },
+    {
+      "id": "60",
+      "pname": "Dainty clover flower necklace",
+      "description": "Size: 40 + 5.5 cm Adjustable, Weight: 2.2 gm, Plating: 18k gold tone plated, Color: Gold",
+      "image": "/image/n60.jpg",
+      "price": 2111,
+      "cid": 1,
+      "created_at": "2025-10-02T23:12:04"
+    },
+    {
+      "id": "61",
+      "pname": "Thin Drop Necklace",
+      "description": "Size: Adjustable, Length: 39 + 6 cm, Pendant Length: 1 cm, Width: 0.5 cm, Weight: 3 gm, Color: Gold",
+      "image": "/image/n61.jpg",
+      "price": 2903,
+      "cid": 1,
+      "created_at": "2025-10-19T10:06:27"
+    },
+    {
+      "id": "62",
+      "pname": "Butterfly Long Chain Necklace",
+      "description": "Chain Size: 16'' + 2'' Adjustable, Dangle Size: L - 12mm, W - 12mm (big), L - 10mm, W - 10mm (medium), L - 8mm",
+      "image": "/image/n62.jpg",
+      "price": 1899,
+      "cid": 1,
+      "created_at": "2025-10-25T01:49:21"
+    },
+    {
+      "id": "101",
+      "pname": "Bezel Round 925 Silver Ring",
+      "description": "Base Metal : 925 Sterling Silver,Plating : Rhodium Plated,Size: Adjustable,Weight: 6 gms",
+      "image": "/image/r1.jpg",
+      "price": 1220,
+      "cid": 2,
+      "created_at": "2025-09-11T17:18:31"
+    },
+    {
+      "id": "102",
+      "pname": "Blush of Love 925 Silver Ring",
+      "description": "Base Metal : 925 Sterling Silver,Plating : Rhodium Plated,Size: 6,Weight: 8 gms",
+      "image": "/image/r2.jpg",
+      "price": 2134,
+      "cid": 2,
+      "created_at": "2025-11-25T08:57:13"
+    },
+    {
+      "id": "103",
+      "pname": "Toi and Moi Open Silver Ring",
+      "description": "Base Metal : 925 Sterling Silver,Plating : Rhodium Plated,Size: Adjustable,Weight: 3.2 gms",
+      "image": "/image/r3.jpg",
+      "price": 2134,
+      "cid": 2,
+      "created_at": "2025-10-13T11:48:30"
+    },
+    {
+      "id": "104",
+      "pname": "Chevron Ring",
+      "description": "Gross Wt = 2.55,Net Wt =2.517",
+      "image": "/image/r4.jpg",
+      "price": 1227,
+      "cid": 2,
+      "created_at": "2025-09-26T03:43:51"
+    },
+    {
+      "id": "105",
+      "pname": "Timeless Round Solitaire 925 Silver Ring  ",
+      "description": "Base Metal : 925 Sterling Silver,Plating : Rhodium Plated,Size: Adjustable,Weight: 7 gms",
+      "image": "/image/r5.jpg",
+      "price": 1425,
+      "cid": 2,
+      "created_at": "2025-10-16T23:28:18"
+    },
+    {
+      "id": "106",
+      "pname": "Dainty Solitaire Ring",
+      "description": "A delicate solitaire style that may resemble yours.",
+      "image": "/image/r6.jpg",
+      "price": 1220,
+      "cid": 2,
+      "created_at": "2025-09-06T19:45:05"
+    },
+    {
+      "id": "107",
+      "pname": "Elegant Twist 925 Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 5 gms",
+      "image": "/image/r7.jpg",
+      "price": 1350,
+      "cid": 2,
+      "created_at": "2025-11-14T08:30:16"
+    },
+    {
+      "id": "108",
+      "pname": "Floral Motif Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 6.5 gms",
+      "image": "/image/r8.jpg",
+      "price": 1480,
+      "cid": 2,
+      "created_at": "2025-09-05T15:28:52"
+    },
+    {
+      "id": "109",
+      "pname": "Twinkling Star Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 4.5 gms",
+      "image": "/image/r9.jpg",
+      "price": 1600,
+      "cid": 2,
+      "created_at": "2025-09-10T23:46:42"
+    },
+    {
+      "id": "110",
+      "pname": "Minimalist Band Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 3.8 gms",
+      "image": "/image/r10.jpg",
+      "price": 1250,
+      "cid": 2,
+      "created_at": "2025-09-25T20:16:29"
+    },
+    {
+      "id": "111",
+      "pname": "Vintage Leaf Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 5.2 gms",
+      "image": "/image/r11.jpg",
+      "price": 1420,
+      "cid": 2,
+      "created_at": "2025-11-17T07:30:27"
+    },
+    {
+      "id": "112",
+      "pname": "Moonstone Accent Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 6 gms",
+      "image": "/image/r12.jpg",
+      "price": 1780,
+      "cid": 2,
+      "created_at": "2025-09-12T14:08:59"
+    },
+    {
+      "id": "113",
+      "pname": "Classic Solitaire Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 4 gms",
+      "image": "/image/r13.jpg",
+      "price": 1320,
+      "cid": 2,
+      "created_at": "2025-11-19T09:07:08"
+    },
+    {
+      "id": "114",
+      "pname": "Infinity Loop Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5.5 gms",
+      "image": "/image/r14.jpg",
+      "price": 1400,
+      "cid": 2,
+      "created_at": "2025-10-08T19:18:01"
+    },
+    {
+      "id": "115",
+      "pname": "Celtic Knot Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 6 gms",
+      "image": "/image/r15.jpg",
+      "price": 1550,
+      "cid": 2,
+      "created_at": "2025-11-03T13:29:10"
+    },
+    {
+      "id": "116",
+      "pname": "Heart Shaped Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4.5 gms",
+      "image": "/image/r16.jpg",
+      "price": 1280,
+      "cid": 2,
+      "created_at": "2025-09-18T11:53:13"
+    },
+    {
+      "id": "117",
+      "pname": "Radiant Sunburst Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 5 gms",
+      "image": "/image/r17.jpg",
+      "price": 1500,
+      "cid": 2,
+      "created_at": "2025-09-29T09:17:44"
+    },
+    {
+      "id": "118",
+      "pname": "Petal Twist Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5.5 gms",
+      "image": "/image/r18.jpg",
+      "price": 1380,
+      "cid": 2,
+      "created_at": "2025-10-30T07:12:37"
+    },
+    {
+      "id": "119",
+      "pname": "Elegant Wave Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 4.8 gms",
+      "image": "/image/r19.jpg",
+      "price": 1450,
+      "cid": 2,
+      "created_at": "2025-09-24T15:07:38"
+    },
+    {
+      "id": "120",
+      "pname": "Classic Twist Band Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4.2 gms",
+      "image": "/image/r20.jpg",
+      "price": 1320,
+      "cid": 2,
+      "created_at": "2025-11-11T12:54:54"
+    },
+    {
+      "id": "121",
+      "pname": "Pearl Accent Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 6 gms",
+      "image": "/image/r21.jpg",
+      "price": 1680,
+      "cid": 2,
+      "created_at": "2025-10-17T20:46:35"
+    },
+    {
+      "id": "122",
+      "pname": "Vine Pattern Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5 gms",
+      "image": "/image/r22.jpg",
+      "price": 1400,
+      "cid": 2,
+      "created_at": "2025-11-06T04:36:09"
+    },
+    {
+      "id": "123",
+      "pname": "Twisted Rope Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 4.5 gms",
+      "image": "/image/r23.jpg",
+      "price": 1350,
+      "cid": 2,
+      "created_at": "2025-11-03T19:48:12"
+    },
+    {
+      "id": "124",
+      "pname": "Delicate Bow Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4.8 gms",
+      "image": "/image/r24.jpg",
+      "price": 1300,
+      "cid": 2,
+      "created_at": "2025-11-07T05:27:22"
+    },
+    {
+      "id": "125",
+      "pname": "Gleaming Circle Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 5 gms",
+      "image": "/image/r25.jpg",
+      "price": 1420,
+      "cid": 2,
+      "created_at": "2025-10-24T01:24:55"
+    },
+    {
+      "id": "126",
+      "pname": "Starry Night Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5.5 gms",
+      "image": "/image/r26.jpg",
+      "price": 1550,
+      "cid": 2,
+      "created_at": "2025-10-06T13:50:07"
+    },
+    {
+      "id": "127",
+      "pname": "Ornate Leaf Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 6 gms",
+      "image": "/image/r27.jpg",
+      "price": 1600,
+      "cid": 2,
+      "created_at": "2025-11-09T07:51:45"
+    },
+    {
+      "id": "128",
+      "pname": "Delicate Chain Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 3.5 gms",
+      "image": "/image/r28.jpg",
+      "price": 1280,
+      "cid": 2,
+      "created_at": "2025-10-07T11:28:43"
+    },
+    {
+      "id": "129",
+      "pname": "Twinkling Heart Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 4.2 gms",
+      "image": "/image/r29.jpg",
+      "price": 1380,
+      "cid": 2,
+      "created_at": "2025-10-17T05:57:29"
+    },
+    {
+      "id": "130",
+      "pname": "Sleek Modern Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4 gms",
+      "image": "/image/r30.jpg",
+      "price": 1250,
+      "cid": 2,
+      "created_at": "2025-10-04T21:07:57"
+    },
+    {
+      "id": "131",
+      "pname": "Twisted Vine Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 5.5 gms",
+      "image": "/image/r31.jpg",
+      "price": 1500,
+      "cid": 2,
+      "created_at": "2025-10-17T01:01:33"
+    },
+    {
+      "id": "132",
+      "pname": "Tiny Star Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 3.8 gms",
+      "image": "/image/r32.jpg",
+      "price": 1200,
+      "cid": 2,
+      "created_at": "2025-11-08T14:01:48"
+    },
+    {
+      "id": "133",
+      "pname": "Leafy Delight Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 5 gms",
+      "image": "/image/r33.jpg",
+      "price": 1400,
+      "cid": 2,
+      "created_at": "2025-11-06T22:03:24"
+    },
+    {
+      "id": "134",
+      "pname": "Crystal Accent Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4.5 gms",
+      "image": "/image/r34.jpg",
+      "price": 1520,
+      "cid": 2,
+      "created_at": "2025-10-23T23:06:20"
+    },
+    {
+      "id": "135",
+      "pname": "Elegant Loop Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 5 gms",
+      "image": "/image/r35.jpg",
+      "price": 1450,
+      "cid": 2,
+      "created_at": "2025-09-20T17:05:05"
+    },
+    {
+      "id": "136",
+      "pname": "Twinkling Dot Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4 gms",
+      "image": "/image/r36.jpg",
+      "price": 1300,
+      "cid": 2,
+      "created_at": "2025-10-31T16:57:28"
+    },
+    {
+      "id": "137",
+      "pname": "Infinity Heart Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 5.2 gms",
+      "image": "/image/r37.jpg",
+      "price": 1550,
+      "cid": 2,
+      "created_at": "2025-09-23T23:10:09"
+    },
+    {
+      "id": "138",
+      "pname": "Petal Edge Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4.8 gms",
+      "image": "/image/r38.jpg",
+      "price": 1420,
+      "cid": 2,
+      "created_at": "2025-09-08T13:10:28"
+    },
+    {
+      "id": "139",
+      "pname": "Simple Band Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 3.5 gms",
+      "image": "/image/r39.jpg",
+      "price": 1200,
+      "cid": 2,
+      "created_at": "2025-11-03T15:20:54"
+    },
+    {
+      "id": "140",
+      "pname": "Dainty Wave Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4.2 gms",
+      "image": "/image/r40.jpg",
+      "price": 1350,
+      "cid": 2,
+      "created_at": "2025-09-21T03:58:28"
+    },
+    {
+      "id": "141",
+      "pname": "Radiant Pearl Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 5.5 gms",
+      "image": "/image/r41.jpg",
+      "price": 1600,
+      "cid": 2,
+      "created_at": "2025-10-24T09:41:51"
+    },
+    {
+      "id": "142",
+      "pname": "Twist Knot Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4.5 gms",
+      "image": "/image/r42.jpg",
+      "price": 1380,
+      "cid": 2,
+      "created_at": "2025-10-13T20:28:32"
+    },
+    {
+      "id": "143",
+      "pname": "Tiny Leaf   Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 3.8 gms",
+      "image": "/image/r43.jpg",
+      "price": 1250,
+      "cid": 2,
+      "created_at": "2025-11-22T11:29:38"
+    },
+    {
+      "id": "144",
+      "pname": "Elegant Twist Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5 gms",
+      "image": "/image/r44.jpg",
+      "price": 1450,
+      "cid": 2,
+      "created_at": "2025-09-01T05:40:29"
+    },
+    {
+      "id": "145",
+      "pname": "Dainty Star Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 4 gms",
+      "image": "/image/r45.jpg",
+      "price": 1320,
+      "cid": 2,
+      "created_at": "2025-10-31T15:29:38"
+    },
+    {
+      "id": "146",
+      "pname": "Vintage Twist Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5.5 gms",
+      "image": "/image/r46.jpg",
+      "price": 1500,
+      "cid": 2,
+      "created_at": "2025-11-10T14:58:54"
+    },
+    {
+      "id": "147",
+      "pname": "Tiny Heart Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 4 gms",
+      "image": "/image/r47.jpg",
+      "price": 1280,
+      "cid": 2,
+      "created_at": "2025-10-10T05:26:14"
+    },
+    {
+      "id": "148",
+      "pname": "Crown Motif Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5 gms",
+      "image": "/image/r48.jpg",
+      "price": 1550,
+      "cid": 2,
+      "created_at": "2025-11-08T16:50:38"
+    },
+    {
+      "id": "149",
+      "pname": "Minimal Leaf Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 3.5 gms",
+      "image": "/image/r49.jpg",
+      "price": 1250,
+      "cid": 2,
+      "created_at": "2025-10-12T15:30:56"
+    },
+    {
+      "id": "150",
+      "pname": "Twinkling Flower Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4.8 gms",
+      "image": "/image/r50.jpg",
+      "price": 1480,
+      "cid": 2,
+      "created_at": "2025-10-14T02:07:39"
+    },
+    {
+      "id": "151",
+      "pname": "Radiant Loop Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 5 gms",
+      "image": "/image/r51.jpg",
+      "price": 1420,
+      "cid": 2,
+      "created_at": "2025-11-04T02:10:22"
+    },
+    {
+      "id": "152",
+      "pname": "Elegant Pearl Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5.5 gms",
+      "image": "/image/r52.jpg",
+      "price": 1600,
+      "cid": 2,
+      "created_at": "2025-11-11T04:55:18"
+    },
+    {
+      "id": "153",
+      "pname": "Tiny Twist Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 4 gms",
+      "image": "/image/r53.jpg",
+      "price": 1350,
+      "cid": 2,
+      "created_at": "2025-11-25T16:21:17"
+    },
+    {
+      "id": "154",
+      "pname": "Dainty Leaf Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5 gms",
+      "image": "/image/r54.jpg",
+      "price": 1450,
+      "cid": 2,
+      "created_at": "2025-10-12T19:34:04"
+    },
+    {
+      "id": "155",
+      "pname": "Twist Star Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 4.5 gms",
+      "image": "/image/r55.jpg",
+      "price": 1500,
+      "cid": 2,
+      "created_at": "2025-10-09T20:39:02"
+    },
+    {
+      "id": "156",
+      "pname": "Elegant Knot Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 4.8 gms",
+      "image": "/image/r56.jpg",
+      "price": 1420,
+      "cid": 2,
+      "created_at": "2025-10-06T11:01:05"
+    },
+    {
+      "id": "157",
+      "pname": "Delicate Wave Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 6, Weight: 4.2 gms",
+      "image": "/image/r57.jpg",
+      "price": 1380,
+      "cid": 2,
+      "created_at": "2025-10-12T08:01:42"
+    },
+    {
+      "id": "158",
+      "pname": "Tiny Crystal Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 3.8 gms",
+      "image": "/image/r58.jpg",
+      "price": 1300,
+      "cid": 2,
+      "created_at": "2025-11-02T03:47:18"
+    },
+    {
+      "id": "159",
+      "pname": "Minimal Loop Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: 7, Weight: 4.5 gms",
+      "image": "/image/r59.jpg",
+      "price": 1350,
+      "cid": 2,
+      "created_at": "2025-11-18T01:15:35"
+    },
+    {
+      "id": "160",
+      "pname": "Elegant Infinity Silver Ring",
+      "description": "Base Metal: 925 Sterling Silver, Plating: Rhodium Plated, Size: Adjustable, Weight: 5 gms",
+      "image": "/image/r60.jpg",
+      "price": 1500,
+      "cid": 2,
+      "created_at": "2025-09-06T08:03:11"
+    },
+    {
+      "id": "201",
+      "pname": "Heart Earring",
+      "description": "Delicate heart-shaped studs crafted in 925 Sterling Silver, lightweight and perfect for daily wear.",
+      "image": "/image/e1.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-10-14T12:00:08"
+    },
+    {
+      "id": "202",
+      "pname": "Pearl Drop Earring",
+      "description": "Elegant drop earrings featuring a lustrous pearl suspended from a rhodium-plated silver hook.",
+      "image": "/image/e2.jpg",
+      "price": 1600,
+      "cid": 3,
+      "created_at": "2025-10-30T19:42:26"
+    },
+    {
+      "id": "203",
+      "pname": "Twinkling Star Earring",
+      "description": "Tiny star-shaped studs in 925 Sterling Silver, accented with sparkling cubic zirconia for a subtle shimmer.",
+      "image": "/image/e3.jpg",
+      "price": 1550,
+      "cid": 3,
+      "created_at": "2025-11-01T07:56:02"
+    },
+    {
+      "id": "204",
+      "pname": "Floral Stud Earring",
+      "description": "Charming floral design earrings with intricate silver detailing, perfect for casual or festive occasions.",
+      "image": "/image/e4.jpg",
+      "price": 1450,
+      "cid": 3,
+      "created_at": "2025-09-20T02:21:34"
+    },
+    {
+      "id": "205",
+      "pname": "Minimal Hoop Earring",
+      "description": "Sleek and modern hoop earrings, crafted in polished 925 Sterling Silver, lightweight for everyday comfort.",
+      "image": "/image/e5.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-09-18T06:38:38"
+    },
+    {
+      "id": "206",
+      "pname": "Dainty Leaf Earring",
+      "description": "Delicate leaf-shaped studs with intricate textures, ideal for adding a touch of nature-inspired elegance.",
+      "image": "/image/e6.jpg",
+      "price": 1480,
+      "cid": 3,
+      "created_at": "2025-11-06T18:58:38"
+    },
+    {
+      "id": "207",
+      "pname": "Elegant Pearl Stud",
+      "description": "Classic pearl studs set in rhodium-plated 925 Silver, a timeless choice for formal and casual wear.",
+      "image": "/image/e7.jpg",
+      "price": 1550,
+      "cid": 3,
+      "created_at": "2025-09-10T14:16:12"
+    },
+    {
+      "id": "208",
+      "pname": "Infinity Hoop Earring",
+      "description": "Stylish infinity-shaped hoops in Sterling Silver, rhodium-plated for a lustrous finish and durability.",
+      "image": "/image/e8.jpg",
+      "price": 1600,
+      "cid": 3,
+      "created_at": "2025-09-03T02:24:45"
+    },
+    {
+      "id": "209",
+      "pname": "Tiny Star Stud",
+      "description": "Small and dainty star-shaped studs, perfect for layering or wearing alone for a subtle sparkle.",
+      "image": "/image/e9.jpg",
+      "price": 1400,
+      "cid": 3,
+      "created_at": "2025-09-09T08:57:44"
+    },
+    {
+      "id": "210",
+      "pname": "Crystal Drop Earring",
+      "description": "Elegant drop earrings featuring shimmering crystals, crafted in rhodium-plated 925 Sterling Silver.",
+      "image": "/image/e10.jpg",
+      "price": 1650,
+      "cid": 3,
+      "created_at": "2025-09-19T08:22:04"
+    },
+    {
+      "id": "211",
+      "pname": "Twist Hoop Earring",
+      "description": "Rhodium-plated twist hoop earrings in 925 Sterling Silver, offering a modern take on a classic design.",
+      "image": "/image/e11.jpg",
+      "price": 1520,
+      "cid": 3,
+      "created_at": "2025-09-16T00:52:19"
+    },
+    {
+      "id": "212",
+      "pname": "Dainty Flower Stud",
+      "description": "Small flower-shaped studs with intricate silver detailing, ideal for subtle elegance.",
+      "image": "/image/e12.jpg",
+      "price": 1480,
+      "cid": 3,
+      "created_at": "2025-11-10T06:00:18"
+    },
+    {
+      "id": "213",
+      "pname": "Elegant Hoop Earring",
+      "description": "Polished silver hoops with a gentle curve, perfect for both casual and formal occasions.",
+      "image": "/image/e13.jpg",
+      "price": 1600,
+      "cid": 3,
+      "created_at": "2025-11-16T01:09:18"
+    },
+    {
+      "id": "214",
+      "pname": "Pearl Dangle Earring",
+      "description": "Drop earrings featuring lustrous pearls for a timeless, sophisticated look.",
+      "image": "/image/e14.jpg",
+      "price": 1580,
+      "cid": 3,
+      "created_at": "2025-09-17T22:30:35"
+    },
+    {
+      "id": "215",
+      "pname": "Twinkling Leaf Stud",
+      "description": "Leaf-inspired silver studs adorned with tiny cubic zirconia for a delicate shimmer.",
+      "image": "/image/e15.jpg",
+      "price": 1450,
+      "cid": 3,
+      "created_at": "2025-10-13T04:52:40"
+    },
+    {
+      "id": "216",
+      "pname": "Minimal Diamond Stud",
+      "description": "Classic 925 Silver studs with a single sparkling diamond accent, perfect for daily wear.",
+      "image": "/image/e16.jpg",
+      "price": 1620,
+      "cid": 3,
+      "created_at": "2025-11-22T02:47:45"
+    },
+    {
+      "id": "217",
+      "pname": "Classic Hoop Earring",
+      "description": "Polished 925 Sterling Silver hoops with rhodium plating, a timeless jewelry essential.",
+      "image": "/image/e17.jpg",
+      "price": 1550,
+      "cid": 3,
+      "created_at": "2025-11-17T20:11:56"
+    },
+    {
+      "id": "218",
+      "pname": "Tiny Pearl Stud",
+      "description": "Delicate pearl studs set in rhodium-plated silver, ideal for layering with other earrings.",
+      "image": "/image/e18.jpg",
+      "price": 1400,
+      "cid": 3,
+      "created_at": "2025-09-15T05:32:03"
+    },
+    {
+      "id": "219",
+      "pname": "Elegant Leaf Drop",
+      "description": "Dangling leaf-shaped silver earrings with rhodium finish, lightweight and graceful.",
+      "image": "/image/e19.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-11-25T04:19:26"
+    },
+    {
+      "id": "220",
+      "pname": "Crystal Hoop Earring",
+      "description": "Hoops with sparkling crystal accents, rhodium-plated for long-lasting shine.",
+      "image": "/image/e20.jpg",
+      "price": 1650,
+      "cid": 3,
+      "created_at": "2025-09-24T03:54:29"
+    },
+    {
+      "id": "221",
+      "pname": "Tiny Flower Stud",
+      "description": "Small silver flower studs with intricate rhodium-plated details, ideal for everyday wear.",
+      "image": "/image/e21.jpg",
+      "price": 1480,
+      "cid": 3,
+      "created_at": "2025-09-28T22:28:50"
+    },
+    {
+      "id": "222",
+      "pname": "Elegant Drop Earring",
+      "description": "925 Sterling Silver drop earrings with a polished rhodium finish, suitable for special occasions.",
+      "image": "/image/e22.jpg",
+      "price": 1600,
+      "cid": 3,
+      "created_at": "2025-09-30T11:08:40"
+    },
+    {
+      "id": "223",
+      "pname": "Pearl Hoop Earring",
+      "description": "Hoop earrings featuring a small pearl accent, lightweight and perfect for everyday elegance.",
+      "image": "/image/e23.jpg",
+      "price": 1580,
+      "cid": 3,
+      "created_at": "2025-09-13T21:00:32"
+    },
+    {
+      "id": "224",
+      "pname": "Twist Leaf Stud",
+      "description": "Leaf-inspired silver studs with a twisted design, polished and rhodium-plated for shine.",
+      "image": "/image/e24.jpg",
+      "price": 1450,
+      "cid": 3,
+      "created_at": "2025-09-14T05:41:10"
+    },
+    {
+      "id": "225",
+      "pname": "Minimal Crystal Stud",
+      "description": "Simple cubic zirconia stud earrings in rhodium-plated silver, ideal for subtle sparkle.",
+      "image": "/image/e25.jpg",
+      "price": 1620,
+      "cid": 3,
+      "created_at": "2025-09-09T11:25:24"
+    },
+    {
+      "id": "226",
+      "pname": "Classic Drop Hoop",
+      "description": "Drop hoop earrings in 925 Silver with rhodium plating, offering a timeless silhouette.",
+      "image": "/image/e26.jpg",
+      "price": 1550,
+      "cid": 3,
+      "created_at": "2025-11-16T19:04:24"
+    },
+    {
+      "id": "227",
+      "pname": "Tiny Infinity Stud",
+      "description": "Delicate infinity-shaped studs crafted in rhodium-plated Sterling Silver.",
+      "image": "/image/e27.jpg",
+      "price": 1400,
+      "cid": 3,
+      "created_at": "2025-10-18T05:04:51"
+    },
+    {
+      "id": "228",
+      "pname": "Elegant Twist Hoop",
+      "description": "Hoops with a twisted design, rhodium-plated for durability and shine.",
+      "image": "/image/e28.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-09-03T03:29:02"
+    },
+    {
+      "id": "229",
+      "pname": "Dainty Pearl Drop",
+      "description": "Small pearl drop earrings, rhodium-plated silver for a delicate, elegant finish.",
+      "image": "/image/e29.jpg",
+      "price": 1450,
+      "cid": 3,
+      "created_at": "2025-09-22T16:25:52"
+    },
+    {
+      "id": "230",
+      "pname": "Crystal Stud Earring",
+      "description": "925 Silver studs with a sparkling crystal accent, perfect for everyday or party wear.",
+      "image": "/image/e30.jpg",
+      "price": 1600,
+      "cid": 3,
+      "created_at": "2025-10-13T23:55:19"
+    },
+    {
+      "id": "231",
+      "pname": "Tiny Hoop Earring",
+      "description": "Minimalist silver hoops, lightweight and rhodium-plated for everyday elegance.",
+      "image": "/image/e31.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-09-14T01:14:13"
+    },
+    {
+      "id": "232",
+      "pname": "Pearl Leaf Stud",
+      "description": "Leaf-shaped studs adorned with a small pearl, perfect for casual and formal wear.",
+      "image": "/image/e32.jpg",
+      "price": 1480,
+      "cid": 3,
+      "created_at": "2025-09-20T17:16:46"
+    },
+    {
+      "id": "233",
+      "pname": "Twinkling Crystal Drop",
+      "description": "Drop earrings featuring sparkling cubic zirconia crystals, rhodium-plated for shine.",
+      "image": "/image/e33.jpg",
+      "price": 1550,
+      "cid": 3,
+      "created_at": "2025-11-14T06:35:13"
+    },
+    {
+      "id": "234",
+      "pname": "Elegant Infinity Drop",
+      "description": "Silver drop earrings in infinity design, rhodium-plated for durability and elegance.",
+      "image": "/image/e34.jpg",
+      "price": 1600,
+      "cid": 3,
+      "created_at": "2025-11-08T06:37:42"
+    },
+    {
+      "id": "235",
+      "pname": "Tiny Pearl Hoop",
+      "description": "Small hoops featuring a pearl accent, polished and rhodium-plated for a refined look.",
+      "image": "/image/e35.jpg",
+      "price": 1450,
+      "cid": 3,
+      "created_at": "2025-11-02T03:01:15"
+    },
+    {
+      "id": "236",
+      "pname": "Dainty Twist Stud",
+      "description": "Twist-shaped silver studs, rhodium-plated, offering subtle sparkle and elegance.",
+      "image": "/image/e36.jpg",
+      "price": 1480,
+      "cid": 3,
+      "created_at": "2025-09-16T17:48:21"
+    },
+    {
+      "id": "237",
+      "pname": "Classic Pearl Drop",
+      "description": "925 Sterling Silver drop earrings with a pearl accent, perfect for formal occasions.",
+      "image": "/image/e37.jpg",
+      "price": 1550,
+      "cid": 3,
+      "created_at": "2025-09-27T04:28:18"
+    },
+    {
+      "id": "238",
+      "pname": "Tiny Crystal Hoop",
+      "description": "Hoops with a single crystal accent, rhodium-plated for durability and shine.",
+      "image": "/image/e38.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-11-14T16:35:13"
+    },
+    {
+      "id": "239",
+      "pname": "Elegant Flower Drop",
+      "description": "Drop earrings with delicate floral design, rhodium-plated 925 Silver for elegance.",
+      "image": "/image/e39.jpg",
+      "price": 1580,
+      "cid": 3,
+      "created_at": "2025-09-12T12:16:51"
+    },
+    {
+      "id": "240",
+      "pname": "Dainty Leaf Hoop",
+      "description": "Small leaf-shaped hoops in rhodium-plated silver, ideal for casual wear.",
+      "image": "/image/e40.jpg",
+      "price": 1480,
+      "cid": 3,
+      "created_at": "2025-10-23T08:27:45"
+    },
+    {
+      "id": "241",
+      "pname": "Minimal Twist Drop",
+      "description": "Silver drop earrings with a twisted design, rhodium-plated for durability and elegance.",
+      "image": "/image/e41.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-10-16T14:23:10"
+    },
+    {
+      "id": "242",
+      "pname": "Tiny Pearl Drop",
+      "description": "Delicate pearl drop earrings, rhodium-plated 925 Silver for a refined look.",
+      "image": "/image/e42.jpg",
+      "price": 1450,
+      "cid": 3,
+      "created_at": "2025-09-12T07:28:00"
+    },
+    {
+      "id": "243",
+      "pname": "Elegant Crystal Stud",
+      "description": "Silver studs with a sparkling crystal accent, perfect for daily or evening wear.",
+      "image": "/image/e43.jpg",
+      "price": 1550,
+      "cid": 3,
+      "created_at": "2025-10-26T21:22:13"
+    },
+    {
+      "id": "244",
+      "pname": "Twist Leaf Hoop",
+      "description": "Hoops with leaf-inspired twist design, polished and rhodium-plated for shine.",
+      "image": "/image/e44.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-09-04T23:36:19"
+    },
+    {
+      "id": "245",
+      "pname": "Pearl Infinity Drop",
+      "description": "Drop earrings in infinity design with pearl accent, rhodium-plated for elegance.",
+      "image": "/image/e45.jpg",
+      "price": 1600,
+      "cid": 3,
+      "created_at": "2025-11-06T22:01:41"
+    },
+    {
+      "id": "246",
+      "pname": "Tiny Flower Hoop",
+      "description": "Small floral hoop earrings, rhodium-plated 925 Silver, perfect for everyday elegance.",
+      "image": "/image/e46.jpg",
+      "price": 1450,
+      "cid": 3,
+      "created_at": "2025-10-30T04:33:14"
+    },
+    {
+      "id": "247",
+      "pname": "Dainty Crystal Drop",
+      "description": "Delicate drop earrings with crystal accents, rhodium-plated for sparkle and shine.",
+      "image": "/image/e47.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-10-19T08:34:58"
+    },
+    {
+      "id": "248",
+      "pname": "Classic Infinity Hoop",
+      "description": "Infinity-shaped hoop earrings, rhodium-plated 925 Silver for durability and elegance.",
+      "image": "/image/e48.jpg",
+      "price": 1600,
+      "cid": 3,
+      "created_at": "2025-10-25T00:36:06"
+    },
+    {
+      "id": "249",
+      "pname": "Tiny Leaf Drop",
+      "description": "Small leaf-shaped drop earrings, lightweight and rhodium-plated for everyday wear.",
+      "image": "/image/e49.jpg",
+      "price": 1480,
+      "cid": 3,
+      "created_at": "2025-10-28T08:57:21"
+    },
+    {
+      "id": "250",
+      "pname": "Elegant Twist Stud",
+      "description": "Twist-shaped rhodium-plated silver studs, delicate and perfect for layering.",
+      "image": "/image/e50.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-09-09T01:40:05"
+    },
+    {
+      "id": "251",
+      "pname": "Pearl Hoop Drop",
+      "description": "Hoop earrings with a dangling pearl, rhodium-plated 925 Silver for refined elegance.",
+      "image": "/image/e51.jpg",
+      "price": 1580,
+      "cid": 3,
+      "created_at": "2025-10-20T11:09:37"
+    },
+    {
+      "id": "252",
+      "pname": "Tiny Crystal Flower",
+      "description": "Delicate flower-shaped studs with tiny crystal accents, rhodium-plated for subtle sparkle.",
+      "image": "/image/e52.jpg",
+      "price": 1450,
+      "cid": 3,
+      "created_at": "2025-11-11T06:11:06"
+    },
+    {
+      "id": "253",
+      "pname": "Elegant Leaf Hoop",
+      "description": "Small hoop earrings featuring a leaf motif, rhodium-plated 925 Silver for everyday wear.",
+      "image": "/image/e53.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-10-14T00:39:27"
+    },
+    {
+      "id": "254",
+      "pname": "Minimal Pearl Stud",
+      "description": "Tiny pearl studs in rhodium-plated silver, ideal for subtle elegance and layering.",
+      "image": "/image/e54.jpg",
+      "price": 1480,
+      "cid": 3,
+      "created_at": "2025-11-20T17:57:16"
+    },
+    {
+      "id": "255",
+      "pname": "Crystal Infinity Hoop",
+      "description": "Hoops with an infinity design adorned with crystal accents, rhodium-plated for shine.",
+      "image": "/image/e55.jpg",
+      "price": 1600,
+      "cid": 3,
+      "created_at": "2025-11-27T17:27:47"
+    },
+    {
+      "id": "256",
+      "pname": "Tiny Twist Drop",
+      "description": "Delicate drop earrings with a twisted design, lightweight and rhodium-plated for elegance.",
+      "image": "/image/e56.jpg",
+      "price": 1500,
+      "cid": 3,
+      "created_at": "2025-09-20T00:30:40"
+    },
+    {
+      "id": "257",
+      "pname": "Dainty Flower Drop",
+      "description": "Drop earrings with small floral design, rhodium-plated 925 Silver, perfect for daily wear.",
+      "image": "/image/e57.jpg",
+      "price": 1480,
+      "cid": 3,
+      "created_at": "2025-11-26T06:21:16"
+    },
+    {
+      "id": "258",
+      "pname": "Classic Pearl Hoop",
+      "description": "Hoop earrings featuring a pearl accent, rhodium-plated for long-lasting shine.",
+      "image": "/image/e58.jpg",
+      "price": 1550,
+      "cid": 3,
+      "created_at": "2025-11-11T18:12:59"
+    },
+    {
+      "id": "301",
+      "pname": "Classic Pearl Bracelet",
+      "description": "Bracelet featuring a pearl accent, rhodium-plated for long-lasting shine.",
+      "image": "/image/b1.jpg",
+      "price": 1200,
+      "cid": 4,
+      "created_at": "2025-11-13T09:52:25"
+    },
+    {
+      "id": "301",
+      "pname": "Classic Pearl Bracelet",
+      "description": "Bracelet featuring a pearl accent, rhodium-plated for long-lasting shine.",
+      "image": "/image/b1.jpg",
+      "price": 1200,
+      "cid": 4,
+      "created_at": "2025-10-29T20:58:59"
+    },
+    {
+      "id": "302",
+      "pname": "Elegant Charm Bracelet",
+      "description": "Delicate rhodium-plated bracelet adorned with tiny charms, perfect for everyday elegance.",
+      "image": "/image/b2.jpg",
+      "price": 1350,
+      "cid": 4,
+      "created_at": "2025-09-06T08:07:45"
+    },
+    {
+      "id": "303",
+      "pname": "Twist Silver Bracelet",
+      "description": "925 Sterling Silver bracelet with a stylish twist design, rhodium-plated for shine.",
+      "image": "/image/b3.jpg",
+      "price": 1450,
+      "cid": 4,
+      "created_at": "2025-11-13T09:48:59"
+    },
+    {
+      "id": "304",
+      "pname": "Crystal Accent Bracelet",
+      "description": "Rhodium-plated bracelet featuring sparkling cubic zirconia accents for a subtle shimmer.",
+      "image": "/image/b4.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-09-09T22:13:02"
+    },
+    {
+      "id": "305",
+      "pname": "Dainty Leaf Bracelet",
+      "description": "Silver bracelet with delicate leaf motifs, rhodium-plated for elegance and durability.",
+      "image": "/image/b5.jpg",
+      "price": 1250,
+      "cid": 4,
+      "created_at": "2025-10-03T09:31:47"
+    },
+    {
+      "id": "306",
+      "pname": "Infinity Charm Bracelet",
+      "description": "Rhodium-plated bracelet featuring infinity charms, crafted in 925 Sterling Silver.",
+      "image": "/image/b6.jpg",
+      "price": 1400,
+      "cid": 4,
+      "created_at": "2025-09-12T23:33:21"
+    },
+    {
+      "id": "307",
+      "pname": "Pearl Cluster Bracelet",
+      "description": "Clustered pearl design on a rhodium-plated silver bracelet, elegant and lightweight.",
+      "image": "/image/b7.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-09-13T15:58:56"
+    },
+    {
+      "id": "308",
+      "pname": "Twinkling Star Bracelet",
+      "description": "925 Silver bracelet with tiny star-shaped charms and cubic zirconia accents, rhodium-plated.",
+      "image": "/image/b8.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-11-01T21:51:03"
+    },
+    {
+      "id": "309",
+      "pname": "Minimalist Silver Bracelet",
+      "description": "Simple and sleek rhodium-plated silver bracelet, perfect for everyday wear.",
+      "image": "/image/b9.jpg",
+      "price": 1300,
+      "cid": 4,
+      "created_at": "2025-09-28T22:24:54"
+    },
+    {
+      "id": "310",
+      "pname": "Floral Charm Bracelet",
+      "description": "Rhodium-plated silver bracelet featuring delicate floral charms for a feminine touch.",
+      "image": "/image/b10.jpg",
+      "price": 1450,
+      "cid": 4,
+      "created_at": "2025-09-21T15:14:42"
+    },
+    {
+      "id": "311",
+      "pname": "Elegant Knot Bracelet",
+      "description": "Rhodium-plated bracelet with an intricate knot design, symbolizing unity and elegance.",
+      "image": "/image/b11.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-09-02T12:44:07"
+    },
+    {
+      "id": "312",
+      "pname": "Pearl Link Bracelet",
+      "description": "Chain-link bracelet accented with pearls, crafted in 925 Silver with rhodium plating.",
+      "image": "/image/b12.jpg",
+      "price": 1600,
+      "cid": 4,
+      "created_at": "2025-10-21T17:47:56"
+    },
+    {
+      "id": "313",
+      "pname": "Twist Rope Bracelet",
+      "description": "Rhodium-plated silver bracelet with a twisted rope design, perfect for everyday and festive wear.",
+      "image": "/image/b13.jpg",
+      "price": 1400,
+      "cid": 4,
+      "created_at": "2025-11-12T12:16:21"
+    },
+    {
+      "id": "314",
+      "pname": "Crystal Leaf Bracelet",
+      "description": "925 Silver bracelet adorned with crystal-studded leaves, rhodium-plated for lasting shine.",
+      "image": "/image/b14.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-09-16T14:37:13"
+    },
+    {
+      "id": "315",
+      "pname": "Dainty Heart Bracelet",
+      "description": "Small heart-shaped charms on a rhodium-plated silver chain, lightweight and elegant.",
+      "image": "/image/b15.jpg",
+      "price": 1350,
+      "cid": 4,
+      "created_at": "2025-09-19T02:36:02"
+    },
+    {
+      "id": "316",
+      "pname": "Infinity Pearl Bracelet",
+      "description": "Rhodium-plated silver bracelet featuring pearls in an infinity design for timeless elegance.",
+      "image": "/image/b16.jpg",
+      "price": 1650,
+      "cid": 4,
+      "created_at": "2025-10-22T13:08:33"
+    },
+    {
+      "id": "317",
+      "pname": "Twinkling Star Chain Bracelet",
+      "description": "Delicate chain bracelet with tiny star charms, rhodium-plated and perfect for layering.",
+      "image": "/image/b17.jpg",
+      "price": 1450,
+      "cid": 4,
+      "created_at": "2025-09-09T12:39:45"
+    },
+    {
+      "id": "318",
+      "pname": "Classic Floral Bracelet",
+      "description": "Rhodium-plated silver bracelet with small flower accents, ideal for formal and casual occasions.",
+      "image": "/image/b18.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-09-05T22:45:06"
+    },
+    {
+      "id": "319",
+      "pname": "Minimal Pearl Chain",
+      "description": "Delicate chain bracelet featuring a single pearl, rhodium-plated 925 Silver, simple yet elegant.",
+      "image": "/image/b19.jpg",
+      "price": 1300,
+      "cid": 4,
+      "created_at": "2025-11-04T03:17:22"
+    },
+    {
+      "id": "320",
+      "pname": "Twist Infinity Bracelet",
+      "description": "Rhodium-plated silver bracelet with a twisted infinity design, elegant and modern.",
+      "image": "/image/b20.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-10-28T06:59:34"
+    },
+    {
+      "id": "321",
+      "pname": "Pearl Charm Bracelet",
+      "description": "925 Silver bracelet adorned with dangling pearl charms, rhodium-plated for shine and durability.",
+      "image": "/image/b21.jpg",
+      "price": 1600,
+      "cid": 4,
+      "created_at": "2025-09-08T23:34:41"
+    },
+    {
+      "id": "322",
+      "pname": "Crystal Knot Bracelet",
+      "description": "Rhodium-plated silver bracelet featuring a knot centerpiece accented with sparkling crystals.",
+      "image": "/image/b22.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-10-11T23:14:57"
+    },
+    {
+      "id": "323",
+      "pname": "Dainty Leaf Chain Bracelet",
+      "description": "Lightweight rhodium-plated silver chain bracelet with tiny leaf charms for everyday wear.",
+      "image": "/image/b23.jpg",
+      "price": 1400,
+      "cid": 4,
+      "created_at": "2025-09-19T21:45:08"
+    },
+    {
+      "id": "324",
+      "pname": "Elegant Twist Bracelet",
+      "description": "Silver bracelet with an elegant twist design, rhodium-plated for lasting shine and durability.",
+      "image": "/image/b24.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-10-08T11:15:57"
+    },
+    {
+      "id": "325",
+      "pname": "Pearl Rope Bracelet",
+      "description": "Rhodium-plated silver bracelet with a rope-style chain accented by pearls, classic and elegant.",
+      "image": "/image/b25.jpg",
+      "price": 1650,
+      "cid": 4,
+      "created_at": "2025-09-28T00:08:03"
+    },
+    {
+      "id": "326",
+      "pname": "Crystal Heart Bracelet",
+      "description": "Delicate bracelet with crystal-studded heart charm, rhodium-plated 925 Silver for shine.",
+      "image": "/image/b26.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-09-10T16:43:04"
+    },
+    {
+      "id": "327",
+      "pname": "Tiny Flower Chain Bracelet",
+      "description": "Rhodium-plated silver bracelet with tiny flower charms, lightweight and elegant.",
+      "image": "/image/b27.jpg",
+      "price": 1350,
+      "cid": 4,
+      "created_at": "2025-10-28T11:43:12"
+    },
+    {
+      "id": "328",
+      "pname": "Infinity Link Bracelet",
+      "description": "Silver link bracelet featuring an infinity design, rhodium-plated for elegance and durability.",
+      "image": "/image/b28.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-10-24T07:24:14"
+    },
+    {
+      "id": "329",
+      "pname": "Pearl Star Bracelet",
+      "description": "925 Silver bracelet with pearl and tiny star charms, rhodium-plated for subtle sparkle.",
+      "image": "/image/b29.jpg",
+      "price": 1600,
+      "cid": 4,
+      "created_at": "2025-09-26T12:14:44"
+    },
+    {
+      "id": "330",
+      "pname": "Dainty Knot Bracelet",
+      "description": "Rhodium-plated silver bracelet featuring a small knot centerpiece, minimalist and chic.",
+      "image": "/image/b30.jpg",
+      "price": 1400,
+      "cid": 4,
+      "created_at": "2025-09-13T01:52:58"
+    },
+    {
+      "id": "331",
+      "pname": "Classic Rope Bracelet",
+      "description": "Twisted rope-style bracelet in rhodium-plated silver, elegant for both daily and formal wear.",
+      "image": "/image/b31.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-11-05T00:12:27"
+    },
+    {
+      "id": "332",
+      "pname": "Pearl Infinity Chain",
+      "description": "Delicate rhodium-plated silver chain bracelet with pearl accents in infinity design.",
+      "image": "/image/b32.jpg",
+      "price": 1650,
+      "cid": 4,
+      "created_at": "2025-09-06T23:57:36"
+    },
+    {
+      "id": "333",
+      "pname": "Twinkling Flower Bracelet",
+      "description": "Rhodium-plated silver bracelet with flower-shaped cubic zirconia accents for sparkle.",
+      "image": "/image/b33.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-10-15T07:33:17"
+    },
+    {
+      "id": "334",
+      "pname": "Minimal Pearl Rope",
+      "description": "Simple 925 Silver rope-style bracelet accented with a single pearl, rhodium-plated for shine.",
+      "image": "/image/b34.jpg",
+      "price": 1400,
+      "cid": 4,
+      "created_at": "2025-10-24T10:44:12"
+    },
+    {
+      "id": "335",
+      "pname": "Elegant Leaf Twist Bracelet",
+      "description": "Rhodium-plated silver bracelet combining twist and leaf design, stylish and unique.",
+      "image": "/image/b35.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-09-25T18:02:42"
+    },
+    {
+      "id": "336",
+      "pname": "Crystal Infinity Chain",
+      "description": "925 Silver bracelet with an infinity chain design and crystal accents, rhodium-plated.",
+      "image": "/image/b36.jpg",
+      "price": 1600,
+      "cid": 4,
+      "created_at": "2025-09-01T18:17:44"
+    },
+    {
+      "id": "337",
+      "pname": "Pearl Star Chain Bracelet",
+      "description": "Delicate chain bracelet with pearls and tiny stars, rhodium-plated for everyday elegance.",
+      "image": "/image/b37.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-11-22T08:36:48"
+    },
+    {
+      "id": "338",
+      "pname": "Tiny Knot Bracelet",
+      "description": "Minimal rhodium-plated silver bracelet with small knot charm, perfect for layering.",
+      "image": "/image/b38.jpg",
+      "price": 1400,
+      "cid": 4,
+      "created_at": "2025-09-21T17:25:29"
+    },
+    {
+      "id": "339",
+      "pname": "Twist Rope Pearl Bracelet",
+      "description": "Rhodium-plated twisted rope bracelet accented with pearls, stylish and elegant.",
+      "image": "/image/b39.jpg",
+      "price": 1650,
+      "cid": 4,
+      "created_at": "2025-11-18T11:43:18"
+    },
+    {
+      "id": "340",
+      "pname": "Crystal Leaf Chain",
+      "description": "Silver chain bracelet with crystal-studded leaves, rhodium-plated for shine and durability.",
+      "image": "/image/b40.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-10-05T01:18:58"
+    },
+    {
+      "id": "341",
+      "pname": "Dainty Infinity Bracelet",
+      "description": "Minimal rhodium-plated silver bracelet featuring an infinity motif, lightweight and elegant.",
+      "image": "/image/b41.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-11-02T02:16:42"
+    },
+    {
+      "id": "342",
+      "pname": "Pearl Twist Bracelet",
+      "description": "Rhodium-plated silver bracelet with a twisted design accented with pearls, elegant and refined.",
+      "image": "/image/b42.jpg",
+      "price": 1600,
+      "cid": 4,
+      "created_at": "2025-09-20T13:38:56"
+    },
+    {
+      "id": "343",
+      "pname": "Floral Rope Bracelet",
+      "description": "Rhodium-plated silver rope-style bracelet with delicate floral accents for a feminine touch.",
+      "image": "/image/b43.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-10-25T23:13:46"
+    },
+    {
+      "id": "344",
+      "pname": "Minimal Knot Chain",
+      "description": "Simple rhodium-plated silver chain bracelet with tiny knot charm, perfect for layering.",
+      "image": "/image/b44.jpg",
+      "price": 1400,
+      "cid": 4,
+      "created_at": "2025-10-24T00:43:20"
+    },
+    {
+      "id": "345",
+      "pname": "Classic Pearl Twist",
+      "description": "925 Silver twist-style bracelet accented with pearls, rhodium-plated for shine.",
+      "image": "/image/b45.jpg",
+      "price": 1650,
+      "cid": 4,
+      "created_at": "2025-10-05T14:00:59"
+    },
+    {
+      "id": "346",
+      "pname": "Crystal Heart Chain",
+      "description": "Delicate rhodium-plated silver chain bracelet featuring a crystal-studded heart charm.",
+      "image": "/image/b46.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-09-29T21:58:29"
+    },
+    {
+      "id": "347",
+      "pname": "Dainty Leaf Rope",
+      "description": "Rhodium-plated twisted rope bracelet with tiny leaf charms for subtle elegance.",
+      "image": "/image/b47.jpg",
+      "price": 1450,
+      "cid": 4,
+      "created_at": "2025-10-03T19:07:31"
+    },
+    {
+      "id": "348",
+      "pname": "Elegant Infinity Twist",
+      "description": "Silver bracelet with twisted infinity design, rhodium-plated for durability and shine.",
+      "image": "/image/b48.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-11-08T06:20:56"
+    },
+    {
+      "id": "349",
+      "pname": "Pearl Star Rope",
+      "description": "Rhodium-plated silver rope bracelet with pearl and star accents, perfect for everyday wear.",
+      "image": "/image/b49.jpg",
+      "price": 1600,
+      "cid": 4,
+      "created_at": "2025-10-23T02:19:05"
+    },
+    {
+      "id": "350",
+      "pname": "Twist Flower Bracelet",
+      "description": "925 Silver bracelet with twisted design and small flower accents, rhodium-plated for elegance.",
+      "image": "/image/b50.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-09-07T17:02:50"
+    },
+    {
+      "id": "351",
+      "pname": "Tiny Knot Pearl Bracelet",
+      "description": "Delicate rhodium-plated bracelet featuring tiny knot and pearl accents for minimalist style.",
+      "image": "/image/b51.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-09-26T14:37:05"
+    },
+    {
+      "id": "352",
+      "pname": "Classic Rope Infinity",
+      "description": "Twisted rope silver bracelet with infinity design, rhodium-plated for lasting elegance.",
+      "image": "/image/b52.jpg",
+      "price": 1650,
+      "cid": 4,
+      "created_at": "2025-09-14T10:03:02"
+    },
+    {
+      "id": "353",
+      "pname": "Crystal Leaf Twist",
+      "description": "Rhodium-plated silver bracelet with crystal-accented leaves in a twist design.",
+      "image": "/image/b53.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-09-14T22:39:32"
+    },
+    {
+      "id": "354",
+      "pname": "Minimal Pearl Knot",
+      "description": "Small pearl-accented knot bracelet, rhodium-plated 925 Silver, delicate and elegant.",
+      "image": "/image/b54.jpg",
+      "price": 1450,
+      "cid": 4,
+      "created_at": "2025-10-16T11:35:15"
+    },
+    {
+      "id": "355",
+      "pname": "Pearl Infinity Rope",
+      "description": "Rhodium-plated twisted rope bracelet featuring pearls in an infinity design.",
+      "image": "/image/b55.jpg",
+      "price": 1600,
+      "cid": 4,
+      "created_at": "2025-09-10T15:19:55"
+    },
+    {
+      "id": "356",
+      "pname": "Twinkling Flower Knot",
+      "description": "Rhodium-plated bracelet with tiny flower and knot accents, delicate and sparkling.",
+      "image": "/image/b56.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-09-22T19:54:43"
+    },
+    {
+      "id": "357",
+      "pname": "Dainty Pearl Chain Bracelet",
+      "description": "Lightweight rhodium-plated silver chain bracelet with small pearl charms, elegant for daily wear.",
+      "image": "/image/b57.jpg",
+      "price": 1500,
+      "cid": 4,
+      "created_at": "2025-11-04T00:53:03"
+    },
+    {
+      "id": "358",
+      "pname": "Elegant Twist Rope Bracelet",
+      "description": "Twisted rope silver bracelet with rhodium plating, perfect for casual and formal occasions.",
+      "image": "/image/b58.jpg",
+      "price": 1550,
+      "cid": 4,
+      "created_at": "2025-11-24T00:05:41"
+    },
+    {
+      "id": "1002",
+      "pname": "Classic Silver Chain",
+      "description": "A timeless silver chain perfect for everyday wear or layering.",
+      "image": "/image/m2.jpg",
+      "price": 500,
+      "cid": 5,
+      "created_at": "2025-09-24T15:32:19"
+    },
+    {
+      "id": "1003",
+      "pname": "Men's Signet Ring",
+      "description": "Bold and sophisticated, this ring is crafted to make a statement.",
+      "image": "/image/m3.jpg",
+      "price": 899,
+      "cid": 5,
+      "created_at": "2025-11-17T03:40:40"
+    },
+    {
+      "id": "1004",
+      "pname": "Silver Bracelet with Clasp",
+      "description": "A sleek silver bracelet featuring a secure clasp for all-day wear.",
+      "image": "/image/m4.jpg",
+      "price": 549,
+      "cid": 5,
+      "created_at": "2025-09-01T00:32:29"
+    },
+    {
+      "id": "1005",
+      "pname": "Box Chain Necklace",
+      "description": "A square box chain that gives a structured, masculine look.",
+      "image": "/image/m5.jpg",
+      "price": 599,
+      "cid": 5,
+      "created_at": "2025-11-27T20:30:22"
+    },
+    {
+      "id": "1006",
+      "pname": "Layered Silver Chains",
+      "description": "Modern and bold layered silver chain set.",
+      "image": "/image/m6.jpg",
+      "price": 699,
+      "cid": 5,
+      "created_at": "2025-09-08T15:08:55"
+    },
+    {
+      "id": "1007",
+      "pname": "Silver Hoop Bracelet",
+      "description": "A minimal hoop bracelet crafted in silver for a clean look.",
+      "image": "/image/m7.jpg",
+      "price": 249,
+      "cid": 5,
+      "created_at": "2025-11-09T07:34:40"
+    },
+    {
+      "id": "1008",
+      "pname": "Black Titanium Ring",
+      "description": "Edgy and durable black titanium ring for the modern man.",
+      "image": "/image/m9.jpg",
+      "price": 749,
+      "cid": 5,
+      "created_at": "2025-10-13T15:28:35"
+    },
+    {
+      "id": "1010",
+      "pname": "Twist Rope Bracelet",
+      "description": "Stylish twist rope bracelet with a secure clasp.",
+      "image": "/image/m11.jpg",
+      "price": 349,
+      "cid": 5,
+      "created_at": "2025-09-14T18:26:46"
+    },
+    {
+      "id": "1011",
+      "pname": "Dangling Hoop Bracelet",
+      "description": "Trendy hoop bracelet with a drop-down design.",
+      "image": "/image/m12.jpg",
+      "price": 279,
+      "cid": 5,
+      "created_at": "2025-09-27T11:35:15"
+    },
+    {
+      "id": "1012",
+      "pname": "Stainless Chain Bracelet",
+      "description": "Classic stainless steel bracelet with modern flair.",
+      "image": "/image/m13.jpg",
+      "price": 399,
+      "cid": 5,
+      "created_at": "2025-10-11T19:11:38"
+    },
+    {
+      "id": "1013",
+      "pname": "Woven Cuff Bracelet",
+      "description": "Elegant woven design in a premium silver finish.",
+      "image": "/image/m14.jpg",
+      "price": 449,
+      "cid": 5,
+      "created_at": "2025-10-28T22:13:03"
+    },
+    {
+      "id": "1014",
+      "pname": "Black Rope Bracelet",
+      "description": "Stylish and durable black rope bracelet with clasp.",
+      "image": "/image/m15.jpg",
+      "price": 349,
+      "cid": 5,
+      "created_at": "2025-09-09T14:57:59"
+    },
+    {
+      "id": "1015",
+      "pname": "Minimal Silver Chain",
+      "description": "A subtle and thin chain necklace for everyday wear.",
+      "image": "/image/m16.jpg",
+      "price": 499,
+      "cid": 5,
+      "created_at": "2025-11-25T22:18:56"
+    },
+    {
+      "id": "1016",
+      "pname": "Gold Chain Set",
+      "description": "Premium gold finish chain set for classic styling.",
+      "image": "/image/m17.jpg",
+      "price": 649,
+      "cid": 5,
+      "created_at": "2025-10-26T08:18:18"
+    },
+    {
+      "id": "1017",
+      "pname": "Men's Gold Chain",
+      "description": "Solid and stylish gold-plated chain necklace.",
+      "image": "/image/m18.jpg",
+      "price": 799,
+      "cid": 5,
+      "created_at": "2025-11-22T03:08:51"
+    },
+    {
+      "id": "1018",
+      "pname": "Layered Chain",
+      "description": "Gold chain layered look worn on a model.",
+      "image": "/image/m19.jpg",
+      "price": 849,
+      "cid": 5,
+      "created_at": "2025-11-14T13:43:42"
+    },
+    {
+      "id": "1019",
+      "pname": "Textured Bracelet",
+      "description": "A sleek silver textured bracelet for men.",
+      "image": "/image/m20.jpg",
+      "price": 549,
+      "cid": 5,
+      "created_at": "2025-11-22T12:18:56"
+    },
+    {
+      "id": "1020",
+      "pname": "Classic Dome Ring",
+      "description": "A bold dome-style ring in silver for a classic look.",
+      "image": "/image/m21.jpg",
+      "price": 699,
+      "cid": 5,
+      "created_at": "2025-11-26T11:13:38"
+    },
+    {
+      "id": "1021",
+      "pname": "Minimal Open Ring",
+      "description": "Simple yet elegant open ring for men.",
+      "image": "/image/m22.jpg",
+      "price": 399,
+      "cid": 5,
+      "created_at": "2025-11-12T22:59:22"
+    },
+    {
+      "id": "1022",
+      "pname": "Silver Ridge Ring",
+      "description": "Ridge detailing on this polished silver ring.",
+      "image": "/image/m23.jpg",
+      "price": 549,
+      "cid": 5,
+      "created_at": "2025-10-09T22:06:23"
+    },
+    {
+      "id": "1023",
+      "pname": "Dual-Tone Bracelet",
+      "description": "A stylish bracelet with dual-tone metal finish.",
+      "image": "/image/m24.jpg",
+      "price": 699,
+      "cid": 5,
+      "created_at": "2025-10-19T11:43:21"
+    },
+    {
+      "id": "1024",
+      "pname": "Silver Snake Chain",
+      "description": "Smooth snake chain for a clean masculine look.",
+      "image": "/image/m25.jpg",
+      "price": 599,
+      "cid": 5,
+      "created_at": "2025-11-18T16:47:57"
+    },
+    {
+      "id": "1025",
+      "pname": "Long Box Chain",
+      "description": "A statement-making long box chain in silver.",
+      "image": "/image/m26.jpg",
+      "price": 649,
+      "cid": 5,
+      "created_at": "2025-09-24T20:53:17"
+    },
+    {
+      "id": "1026",
+      "pname": "Silver Ridge Ring",
+      "description": "Beautifully textured silver ring with smooth polish.",
+      "image": "/image/m27.jpg",
+      "price": 749,
+      "cid": 5,
+      "created_at": "2025-09-04T17:47:49"
+    },
+    {
+      "id": "1027",
+      "pname": "Polished Gold Ring",
+      "description": "A polished gold-tone band for timeless elegance.",
+      "image": "/image/m28.jpg",
+      "price": 499,
+      "cid": 5,
+      "created_at": "2025-10-23T16:11:49"
+    },
+    {
+      "id": "1028",
+      "pname": "Gold Plated Ring",
+      "description": "Sturdy and stylish silver chain bracelet.",
+      "image": "/image/m29.jpg",
+      "price": 449,
+      "cid": 5,
+      "created_at": "2025-09-09T20:02:33"
+    },
+    {
+      "id": "1029",
+      "pname": "Chrome Domed Bracelet",
+      "description": "A domed bracelet with a mirror-polish chrome finish.",
+      "image": "/image/m30.jpg",
+      "price": 579,
+      "cid": 5,
+      "created_at": "2025-11-11T23:38:06"
+    },
+    {
+      "id": "1030",
+      "pname": "Silver Gemstone Ring ",
+      "description": "Silver ring with subtle embedded gemstone.",
+      "image": "/image/m31.jpg",
+      "price": 799,
+      "cid": 5,
+      "created_at": "2025-11-04T07:08:27"
+    },
+    {
+      "id": "1031",
+      "pname": "Engraved Statement Ring",
+      "description": "A thick band ring with deep engraving.",
+      "image": "/image/m32.jpg",
+      "price": 649,
+      "cid": 5,
+      "created_at": "2025-09-04T11:51:09"
+    },
+    {
+      "id": "1032",
+      "pname": "Matte Signet Ring",
+      "description": "Matte-finish signet ring with minimal design.",
+      "image": "/image/m33.jpg",
+      "price": 699,
+      "cid": 5,
+      "created_at": "2025-11-25T02:51:48"
+    },
+    {
+      "id": "1033",
+      "pname": "Curved Band Ring",
+      "description": "Elegant and modern curved design ring.",
+      "image": "/image/m34.jpg",
+      "price": 599,
+      "cid": 5,
+      "created_at": "2025-09-07T07:04:01"
+    },
+    {
+      "id": "1034",
+      "pname": "Layered Stack Ring",
+      "description": "Stylish stacked band ring in silver.",
+      "image": "/image/m35.jpg",
+      "price": 649,
+      "cid": 5,
+      "created_at": "2025-09-25T14:13:05"
+    },
+    {
+      "id": "1035",
+      "pname": "Modern Flat Ring",
+      "description": "A flat-surfaced ring perfect for daily wear.",
+      "image": "/image/m36.jpg",
+      "price": 449,
+      "cid": 5,
+      "created_at": "2025-09-10T04:54:50"
+    },
+    {
+      "id": "1036",
+      "pname": "Sleek Ridge Ring",
+      "description": "Modern ridged design in silver finish.",
+      "image": "/image/m37.jpg",
+      "price": 499,
+      "cid": 5,
+      "created_at": "2025-10-04T08:57:25"
+    },
+    {
+      "id": "1037",
+      "pname": "Slim Gold Ring",
+      "description": "A minimalist slim gold band for versatile styling.",
+      "image": "/image/m38.jpg",
+      "price": 399,
+      "cid": 5,
+      "created_at": "2025-11-19T01:51:47"
+    },
+    {
+      "id": "1038",
+      "pname": "Silver Chain",
+      "description": "Silver chain necklace with a small pendant.",
+      "image": "/image/m39.jpg",
+      "price": 699,
+      "cid": 5,
+      "created_at": "2025-10-12T06:55:57"
+    },
+    {
+      "id": "1039",
+      "pname": "Minimal Chain",
+      "description": "A silver chain displayed on male model.",
+      "image": "/image/m40.jpg",
+      "price": 749,
+      "cid": 5,
+      "created_at": "2025-11-20T10:27:06"
+    },
+    {
+      "id": "1040",
+      "pname": "Polished Silver Chain",
+      "description": "Shiny silver chain for a premium look.",
+      "image": "/image/m41.jpg",
+      "price": 599,
+      "cid": 5,
+      "created_at": "2025-10-29T08:51:39"
+    },
+    {
+      "id": "1041",
+      "pname": "Silver Chain on Beard Model",
+      "description": "Stylish thick chain necklace on model.",
+      "image": "/image/m42.jpg",
+      "price": 849,
+      "cid": 5,
+      "created_at": "2025-10-27T10:36:37"
+    },
+    {
+      "id": "1042",
+      "pname": "Minimal Knot Chain",
+      "description": "Simple bracelet worn with casual outfit.",
+      "image": "/image/m43.jpg",
+      "price": 379,
+      "cid": 5,
+      "created_at": "2025-10-17T06:10:45"
+    },
+    {
+      "id": "1043",
+      "pname": "Open Shirt Chain",
+      "description": "Chain necklace worn with open shirt for bold look.",
+      "image": "/image/m44.jpg",
+      "price": 749,
+      "cid": 5,
+      "created_at": "2025-11-19T10:52:05"
+    },
+    {
+      "id": "1044",
+      "pname": "V Layer Necklace",
+      "description": "Double layered V-style necklace in gold.",
+      "image": "/image/m45.jpg",
+      "price": 799,
+      "cid": 5,
+      "created_at": "2025-09-21T23:15:21"
+    },
+    {
+      "id": "1045",
+      "pname": "Beaded Cross Pendant",
+      "description": "Stylish cross pendant on silver beaded chain.",
+      "image": "/image/m46.jpg",
+      "price": 699,
+      "cid": 5,
+      "created_at": "2025-09-12T02:31:52"
+    },
+    {
+      "id": "1046",
+      "pname": "Gold Pendant Set",
+      "description": "Elegant pendant with a slim gold chain.",
+      "image": "/image/m47.jpg",
+      "price": 599,
+      "cid": 5,
+      "created_at": "2025-09-18T18:42:28"
+    },
+    {
+      "id": "1047",
+      "pname": "Silver Dangle Chain",
+      "description": "Stylish hoop earring with a dangling design.",
+      "image": "/image/m48.jpg",
+      "price": 299,
+      "cid": 5,
+      "created_at": "2025-09-22T03:58:22"
+    },
+    {
+      "id": "1048",
+      "pname": "Plain Hoop Bracelet",
+      "description": "Classic silver hoop for a subtle style.",
+      "image": "/image/m49.jpg",
+      "price": 259,
+      "cid": 5,
+      "created_at": "2025-09-04T05:48:29"
+    },
+    {
+      "id": "1049",
+      "pname": "Round Silver Bracelet",
+      "description": "Simple silver chain with a circular pendant.",
+      "image": "/image/m50.jpg",
+      "price": 399,
+      "cid": 5,
+      "created_at": "2025-11-02T12:22:28"
+    },
+    {
+      "id": "1050",
+      "pname": "Men's Loop Chain",
+      "description": "Trendy fashion pendant for daily wear.",
+      "image": "/image/m8.jpg",
+      "price": 649,
+      "cid": 5,
+      "created_at": "2025-11-01T16:04:18"
+    },
+    {
+      "id": "c83d",
+      "pname": "Heart Pearl Necklace",
+      "description": "beautiful designs",
+      "image": "/image/n12.jpg",
+      "price": 1231,
+      "cid": 1,
+      "created_at": "2025-11-28T05:56:07.167Z"
+    },
+    {
+      "id": "a29a",
+      "pname": "solitary spark  bracelet",
+      "description": "beautiful designs",
+      "image": "/image/b12.jpg",
+      "price": 912,
+      "cid": 4,
+      "created_at": "2025-11-28T07:23:00.607Z"
+    },
+    {
+      "id": "874e",
+      "pname": "Golden Heart Earring",
+      "description": "elegant design",
+      "image": "/image/e13.jpg",
+      "price": 516,
+      "cid": 3,
+      "created_at": "2025-11-28T07:30:29.554Z"
+    },
+    {
+      "id": "78b8",
+      "pname": "Pearl Necklace ",
+      "description": "with delicate designs",
+      "image": "/image/n20.jpg",
+      "price": 516,
+      "cid": 1,
+      "created_at": "2025-11-28T07:33:12.713Z"
+    },
+    {
+      "id": "e2cb",
+      "pname": "Leopard Men's Ring",
+      "description": "The Leopard Men's Ring is a fierce and captivating piece of jewelry that embodies strength and style.",
+      "image": "/image/m1.jpg",
+      "price": 799,
+      "cid": 5,
+      "created_at": "2025-11-28T15:08:10.116Z"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "email": "aesha@gmail.com",
+      "password": "aesha"
+    },
+    {
+      "id": "6f80",
+      "email": "krisha@gmail.com",
+      "password": "krisha"
+    },
+    {
+      "id": "edb1",
+      "email": "abc@gmail.com",
+      "password": "abcdef"
+    }
+  ],
+  "user": [
+    {
+      "id": "6298",
+      "uid": "107",
+      "uname": "naksh",
+      "uemail": "naksh@gmail.com",
+      "password": "naksh123",
+      "gender": "Male",
+      "address": "3,nayan soc,opp mt road , vapi",
+      "phone": "3245678901",
+      "status": "Block",
+      "created_at": "2025-09-26T12:35:01.847Z"
+    },
+    {
+      "id": "9695",
+      "uid": "2",
+      "uname": "hetvi",
+      "uemail": "hetvi@gmail.com",
+      "password": "hetvi123",
+      "gender": "Female",
+      "address": "surat",
+      "phone": "6789054321",
+      "status": "Active",
+      "created_at": "2025-09-27T12:02:26.337Z"
+    },
+    {
+      "id": "4486",
+      "uid": "4",
+      "uname": "nayan",
+      "uemail": "nayan@gmail.com",
+      "password": "nayan123",
+      "gender": "Male",
+      "address": "vapi",
+      "phone": "4567890123",
+      "status": "Active",
+      "created_at": "2025-09-27T12:04:04.726Z"
+    },
+    {
+      "id": "198d",
+      "uid": "6",
+      "uname": "ashish",
+      "uemail": "ashish@gmail.com",
+      "password": "ashish",
+      "gender": "Male",
+      "address": "valsad",
+      "phone": "5678904321",
+      "status": "Active",
+      "created_at": "2025-09-27T12:05:07.290Z"
+    },
+    {
+      "id": "7f45",
+      "uid": "10",
+      "uname": "mahek",
+      "uemail": "mahek@gmail.com",
+      "password": "mahek123",
+      "gender": "Female",
+      "address": "surat",
+      "phone": "9876543210",
+      "status": "Block",
+      "created_at": "2025-10-18T09:11:52.771Z"
+    },
+    {
+      "id": "2fb4",
+      "uid": "11",
+      "uname": "dhaval",
+      "uemail": "dhaval@gmail.com",
+      "password": "dhaval",
+      "gender": "Male",
+      "address": "surat",
+      "phone": "8765432109",
+      "status": "Block",
+      "created_at": "2025-10-18T09:13:47.643Z"
+    },
+    {
+      "id": "1866",
+      "uid": "213",
+      "uname": "heta",
+      "uemail": "heta@gmail.com",
+      "password": "heta123",
+      "gender": "Female",
+      "address": "navsari",
+      "phone": "2134567213",
+      "status": "Active",
+      "created_at": "2025-11-27T11:36:49.814Z"
+    },
+    {
+      "id": "9fd4",
+      "uid": "898",
+      "uname": "manav",
+      "uemail": "manav@gmail.com",
+      "password": "manav123",
+      "gender": "Male",
+      "address": "mumbai",
+      "phone": "4563217890",
+      "status": "Active",
+      "created_at": "2025-11-27T13:19:09.387Z"
+    },
+    {
+      "id": "a949",
+      "uid": "321",
+      "uname": "unnati",
+      "uemail": "unnati@gmail.com",
+      "password": "unnati",
+      "gender": "Female",
+      "address": "mumbai",
+      "phone": "2143658709",
+      "status": "Active",
+      "created_at": "2025-11-27T13:20:09.358Z"
+    },
+    {
+      "id": "f603",
+      "uid": "112",
+      "uname": "sanket",
+      "uemail": "sanket@gmail.com",
+      "password": "sanket",
+      "gender": "Male",
+      "address": "punjab",
+      "phone": "4321657898",
+      "status": "Active",
+      "created_at": "2025-11-27T17:25:49.509Z"
+    },
+    {
+      "id": "ecff",
+      "uid": "324",
+      "uname": "aashna",
+      "uemail": "aashna@gmail.com",
+      "password": "aashna",
+      "gender": "Female",
+      "address": "valsad",
+      "phone": "5463217899",
+      "status": "Active",
+      "created_at": "2025-11-27T17:26:54.339Z"
+    },
+    {
+      "id": "c5c9",
+      "uid": "675",
+      "uname": "ashi",
+      "uemail": "ashi@gmail.com",
+      "password": "ashi123",
+      "gender": "Female",
+      "address": "Ahmedabad",
+      "phone": "7685432198",
+      "status": "Active",
+      "created_at": "2025-11-27T17:28:15.192Z"
+    },
+    {
+      "id": "fd57",
+      "uid": "980",
+      "uname": "anirudh",
+      "uemail": "anirudh@gmail.com",
+      "password": "anirudh",
+      "gender": "Male",
+      "address": "vapi",
+      "phone": "5423187987",
+      "status": "Active",
+      "created_at": "2025-11-27T17:29:11.081Z"
+    },
+    {
+      "id": "b1eb",
+      "uid": "564",
+      "uname": "janvi",
+      "uemail": "janvi@gmail.com",
+      "password": "janvi123",
+      "gender": "Female",
+      "address": "surat",
+      "phone": "9876543298",
+      "status": "Active",
+      "created_at": "2025-11-27T17:31:00.800Z"
+    }
+  ],
+  "order_t": [
+    {
+      "id": "122",
+      "oid": 1764245747791,
+      "cid": 1,
+      "uid": "213",
+      "uname": "heta",
+      "time_date": "27/11/2025, 5:45:47 pm",
+      "price": 1400,
+      "address": "navsari",
+      "phone": "2134567213",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Vine Pattern Silver Ring",
+      "image": "/image/r22.jpg"
+    },
+    {
+      "id": "217",
+      "oid": 1764247444801,
+      "cid": 1,
+      "uid": "4",
+      "uname": "nayan",
+      "time_date": "27/11/2025, 6:14:04 pm",
+      "price": 1550,
+      "address": "vapi",
+      "phone": "4567890123",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Classic Hoop Earring",
+      "image": "/image/e17.jpg"
+    },
+    {
+      "id": "1017",
+      "oid": 1764249147399,
+      "cid": 1,
+      "uid": "6",
+      "uname": "ashish",
+      "time_date": "27/11/2025, 6:42:27 pm",
+      "price": 799,
+      "address": "valsad",
+      "phone": "5678904321",
+      "qty": 1,
+      "ostatus": "delivered",
+      "pname": "Men's Gold Chain",
+      "image": "/image/m18.jpg"
+    },
+    {
+      "id": "1007",
+      "oid": 1764265200654,
+      "cid": 1,
+      "uid": "898",
+      "uname": "manav",
+      "time_date": "27/11/2025, 11:10:00 pm",
+      "price": 249,
+      "address": "mumbai",
+      "phone": "4563217890",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Silver Hoop Bracelet",
+      "image": "/image/m7.jpg"
+    },
+    {
+      "id": "141",
+      "oid": 1764265252043,
+      "cid": 1,
+      "uid": "564",
+      "uname": "janvi",
+      "time_date": "27/11/2025, 11:10:52 pm",
+      "price": 1600,
+      "address": "surat",
+      "phone": "9876543298",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Radiant Pearl Silver Ring",
+      "image": "/image/r41.jpg"
+    },
+    {
+      "id": "344",
+      "oid": 1764265354494,
+      "cid": 1,
+      "uid": "564",
+      "uname": "janvi",
+      "time_date": "27/11/2025, 11:12:34 pm",
+      "price": 1400,
+      "address": "surat",
+      "phone": "9876543298",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Minimal Knot Chain",
+      "image": "/image/b44.jpg"
+    },
+    {
+      "id": "1046",
+      "oid": 1764265405218,
+      "cid": 1,
+      "uid": "980",
+      "uname": "anirudh",
+      "time_date": "27/11/2025, 11:13:25 pm",
+      "price": 599,
+      "address": "vapi",
+      "phone": "5423187987",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Gold Pendant Set",
+      "image": "/image/m47.jpg"
+    },
+    {
+      "id": "113",
+      "oid": 1764265499907,
+      "cid": 1,
+      "uid": "675",
+      "uname": "ashi",
+      "time_date": "27/11/2025, 11:14:59 pm",
+      "price": 1320,
+      "address": "Ahmedabad",
+      "phone": "7685432198",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Classic Solitaire Silver Ring",
+      "image": "/image/r13.jpg"
+    },
+    {
+      "id": "214",
+      "oid": 1764265533312,
+      "cid": 1,
+      "uid": "675",
+      "uname": "ashi",
+      "time_date": "27/11/2025, 11:15:33 pm",
+      "price": 1580,
+      "address": "Ahmedabad",
+      "phone": "7685432198",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Pearl Dangle Earring",
+      "image": "/image/e14.jpg"
+    },
+    {
+      "id": "1013",
+      "oid": 1764265621098,
+      "cid": 1,
+      "uid": "112",
+      "uname": "sanket",
+      "time_date": "27/11/2025, 11:17:01 pm",
+      "price": 449,
+      "address": "punjab",
+      "phone": "4321657898",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Woven Cuff Bracelet",
+      "image": "/image/m14.jpg"
+    },
+    {
+      "id": "1038",
+      "oid": 1764265721924,
+      "cid": 1,
+      "uid": "112",
+      "uname": "sanket",
+      "time_date": "27/11/2025, 11:18:41 pm",
+      "price": 699,
+      "address": "punjab",
+      "phone": "4321657898",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Silver Chain",
+      "image": "/image/m39.jpg"
+    },
+    {
+      "id": "1039",
+      "oid": 1764265777915,
+      "cid": 1,
+      "uid": "6",
+      "uname": "ashish",
+      "time_date": "27/11/2025, 11:19:37 pm",
+      "price": 749,
+      "address": "valsad",
+      "phone": "5678904321",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Minimal Chain",
+      "image": "/image/m40.jpg"
+    },
+    {
+      "id": "216",
+      "oid": 1764265818675,
+      "cid": 1,
+      "uid": "324",
+      "uname": "aashna",
+      "time_date": "27/11/2025, 11:20:18 pm",
+      "price": 1620,
+      "address": "valsad",
+      "phone": "5463217899",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Minimal Diamond Stud",
+      "image": "/image/e16.jpg"
+    },
+    {
+      "id": "61",
+      "oid": 1764265834627,
+      "cid": 1,
+      "uid": "324",
+      "uname": "aashna",
+      "time_date": "27/11/2025, 11:20:34 pm",
+      "price": 2903,
+      "address": "valsad",
+      "phone": "5463217899",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Thin Drop Necklace",
+      "image": "/image/n61.jpg"
+    },
+    {
+      "id": "131",
+      "oid": 1764319367445,
+      "cid": 1,
+      "uid": "321",
+      "uname": "unnati",
+      "time_date": "28/11/2025, 2:12:47 pm",
+      "price": 1500,
+      "address": "mumbai",
+      "phone": "2143658709",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Twisted Vine Silver Ring",
+      "image": "/image/r31.jpg"
+    },
+    {
+      "id": "250",
+      "oid": 1764319578038,
+      "cid": 1,
+      "uid": "321",
+      "uname": "unnati",
+      "time_date": "28/11/2025, 2:16:18 pm",
+      "price": 1500,
+      "address": "mumbai",
+      "phone": "2143658709",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Elegant Twist Stud",
+      "image": "/image/e50.jpg"
+    },
+    {
+      "id": "1027",
+      "oid": 1764319654784,
+      "cid": 1,
+      "uid": "898",
+      "uname": "manav",
+      "time_date": "28/11/2025, 2:17:34 pm",
+      "price": 499,
+      "address": "mumbai",
+      "phone": "4563217890",
+      "qty": 1,
+      "ostatus": "delivered",
+      "pname": "Polished Gold Ring",
+      "image": "/image/m28.jpg"
+    },
+    {
+      "id": "354",
+      "oid": 1764387349360,
+      "cid": 1,
+      "uid": "6",
+      "time_date": "11/29/2025, 9:05:49 AM",
+      "price": 1450,
+      "address": "valsad",
+      "phone": "5678904321",
+      "qty": 1,
+      "ostatus": "pending",
+      "pname": "Minimal Pearl Knot",
+      "image": "/image/b54.jpg"
+    },
+    {
+      "id": "354",
+      "oid": 1764388538427,
+      "cid": 1,
+      "uid": "6",
+      "time_date": "11/29/2025, 9:25:38 AM",
+      "price": 2900,
+      "address": "valsad",
+      "phone": "5678904321",
+      "qty": 2,
+      "ostatus": "pending",
+      "pname": "Minimal Pearl Knot",
+      "image": "/image/b54.jpg"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "1",
+      "wid": 1764247505807,
+      "uid": "4",
+      "uname": "nayan",
+      "pname": "Delicate Diamond Studded Necklace",
+      "price": 2314,
+      "image": "/image/n1.jpg",
+      "time_date": "27/11/2025, 6:15:05 pm"
+    },
+    {
+      "id": "1024",
+      "wid": 1764265212202,
+      "uid": "898",
+      "uname": "manav",
+      "pname": "Silver Snake Chain",
+      "price": 599,
+      "image": "/image/m25.jpg",
+      "time_date": "27/11/2025, 11:10:12 pm"
+    },
+    {
+      "id": "225",
+      "wid": 1764265270599,
+      "uid": "564",
+      "uname": "janvi",
+      "pname": "Minimal Crystal Stud",
+      "price": 1620,
+      "image": "/image/e25.jpg",
+      "time_date": "27/11/2025, 11:11:10 pm"
+    },
+    {
+      "id": "1020",
+      "wid": 1764265394761,
+      "uid": "980",
+      "uname": "anirudh",
+      "pname": "Classic Dome Ring",
+      "price": 699,
+      "image": "/image/m21.jpg",
+      "time_date": "27/11/2025, 11:13:14 pm"
+    },
+    {
+      "id": "143",
+      "wid": 1764342301388,
+      "uid": "10",
+      "uname": "mahek",
+      "pname": "Tiny Leaf   Silver Ring",
+      "price": 1250,
+      "image": "/image/r43.jpg",
+      "time_date": "11/28/2025, 8:35:01 PM"
+    }
+  ],
+  "addtocart": [
+    {
+      "id": "62",
+      "acid": 1764319317026,
+      "uid": "321",
+      "uname": "unnati",
+      "pname": "Butterfly Long Chain Necklace",
+      "image": "/image/n62.jpg",
+      "qty": 1,
+      "price": 1899,
+      "totalPrice": 1899,
+      "time_date": "28/11/2025, 2:11:57 pm"
+    },
+    {
+      "id": "131",
+      "acid": 1764319341501,
+      "uid": "321",
+      "uname": "unnati",
+      "pname": "Twisted Vine Silver Ring",
+      "image": "/image/r31.jpg",
+      "qty": 1,
+      "price": 1500,
+      "totalPrice": 1500,
+      "time_date": "28/11/2025, 2:12:21 pm"
+    },
+    {
+      "id": "250",
+      "acid": 1764319572769,
+      "uid": "321",
+      "uname": "unnati",
+      "pname": "Elegant Twist Stud",
+      "image": "/image/e50.jpg",
+      "qty": 1,
+      "price": 1500,
+      "totalPrice": 1500,
+      "time_date": "28/11/2025, 2:16:12 pm"
+    },
+    {
+      "id": "1027",
+      "acid": 1764319646590,
+      "uid": "898",
+      "uname": "manav",
+      "pname": "Polished Gold Ring",
+      "image": "/image/m28.jpg",
+      "qty": 1,
+      "price": 499,
+      "totalPrice": 499,
+      "time_date": "28/11/2025, 2:17:26 pm"
+    },
+    {
+      "id": "143",
+      "acid": 1764342305921,
+      "uid": "10",
+      "uname": "mahek",
+      "pname": "Tiny Leaf   Silver Ring",
+      "image": "/image/r43.jpg",
+      "qty": 1,
+      "price": 1250,
+      "totalPrice": 1250,
+      "time_date": "11/28/2025, 8:35:05 PM"
+    },
+    {
+      "id": "1027",
+      "acid": 1764342360342,
+      "uid": "10",
+      "uname": "mahek",
+      "pname": "Polished Gold Ring",
+      "image": "/image/m28.jpg",
+      "qty": 1,
+      "price": 499,
+      "totalPrice": 499,
+      "time_date": "11/28/2025, 8:36:00 PM"
+    },
+    {
+      "id": "1012",
+      "acid": 1764386576173,
+      "uid": "10",
+      "uname": "mahek",
+      "pname": "Stainless Chain Bracelet",
+      "image": "/image/m13.jpg",
+      "qty": 1,
+      "price": 399,
+      "totalPrice": 399,
+      "time_date": "11/29/2025, 8:52:56 AM"
+    },
+    {
+      "id": "874e",
+      "acid": 1764387293723,
+      "uid": "6",
+      "uname": "ashish",
+      "pname": "Golden Heart Earring",
+      "image": "/image/e13.jpg",
+      "qty": 1,
+      "price": 516,
+      "totalPrice": 516,
+      "time_date": "11/29/2025, 9:04:53 AM"
+    },
+    {
+      "id": "354",
+      "acid": 1764387324590,
+      "uid": "6",
+      "uname": "ashish",
+      "pname": "Minimal Pearl Knot",
+      "image": "/image/b54.jpg",
+      "qty": 2,
+      "price": 1450,
+      "totalPrice": 2900,
+      "time_date": "11/29/2025, 9:05:24 AM"
+    },
+    {
+      "id": "18",
+      "acid": 1764393953318,
+      "uid": "2",
+      "uname": "hetvi",
+      "pname": "Delicate Moonstone Necklace",
+      "image": "/image/n18.jpg",
+      "qty": 1,
+      "price": 2145,
+      "totalPrice": 2145,
+      "time_date": "11/29/2025, 10:55:53 AM"
+    },
+    {
+      "id": "130",
+      "acid": 1764393967820,
+      "uid": "2",
+      "uname": "hetvi",
+      "pname": "Sleek Modern Silver Ring",
+      "image": "/image/r30.jpg",
+      "qty": 1,
+      "price": 1250,
+      "totalPrice": 1250,
+      "time_date": "11/29/2025, 10:56:07 AM"
+    },
+    {
+      "id": "340",
+      "acid": 1764393994057,
+      "uid": "2",
+      "uname": "hetvi",
+      "pname": "Crystal Leaf Chain",
+      "image": "/image/b40.jpg",
+      "qty": 1,
+      "price": 1550,
+      "totalPrice": 1550,
+      "time_date": "11/29/2025, 10:56:34 AM"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "1758892921130",
+      "username": "naksh",
+      "message": "nice and unique collections ",
+      "created_at": "26/9/2025, 6:52:01 pm"
+    },
+    {
+      "id": "1758975054137",
+      "username": "hetvi",
+      "message": "Very Nice Quality jewellery",
+      "created_at": "27/9/2025, 5:40:54 pm"
+    },
+    {
+      "id": "1758975111195",
+      "username": "dhruvi",
+      "message": "very nice collection of jewellery",
+      "created_at": "27/9/2025, 5:41:51 pm"
+    },
+    {
+      "id": "1764264959490",
+      "username": "saloni",
+      "message": "Perfect jewellery for daily wear",
+      "created_at": "27/11/2025, 11:05:59 pm"
+    },
+    {
+      "id": "1764265109604",
+      "username": "unnati",
+      "message": "Best choice to buy from glamora",
+      "created_at": "27/11/2025, 11:08:29 pm"
+    },
+    {
+      "id": "1764265180336",
+      "username": "manav",
+      "message": "Stunning and Elegant collection of jewelleries",
+      "created_at": "27/11/2025, 11:09:40 pm"
+    },
+    {
+      "id": "1764265337328",
+      "username": "janvi",
+      "message": "Focus on lightness, subtle details, everyday wear.",
+      "created_at": "27/11/2025, 11:12:17 pm"
+    },
+    {
+      "id": "1764265446588",
+      "username": "anirudh",
+      "message": "lightweight minimal jewellery perfect to wear ",
+      "created_at": "27/11/2025, 11:14:06 pm"
+    }
+  ]
+}

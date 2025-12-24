@@ -1,0 +1,33 @@
+.insert-page {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+}
+
+.insert-page .card {
+  background-color: #2c2f48;
+  border-radius: 10px;
+  color: white;
+}
+
+.insert-page .form-control {
+  background-color: #3b3f5c;
+  border: none;
+  color: white;
+}
+
+.insert-page .form-control:focus {
+  background-color: #50567a;
+  color: white;
+  box-shadow: none;
+  border: 1px solid #667eea;
+}
+
+.insert-page .btn-info {
+  background-color: #667eea;
+  border: none;
+  font-weight: 600;
+}
+
+.insert-page .btn-info:hover {
+  background-color: #5a67d8;
+}

@@ -1,0 +1,93 @@
+.homepage {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 20px 40px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.nav-actions input[type="text"] {
+  padding: 6px 10px;
+  font-size: 14px;
+}
+
+.nav-actions button {
+  padding: 6px 12px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.nav-icon {
+  font-size: 20px;
+  color: #333;
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.nav-icon:hover {
+  color: #007bff;
+  transform: scale(1.1);
+}
+
+.nav-actions a {
+  margin-left: 8px;
+  font-weight: 500;
+  color: #333;
+  text-decoration: none;
+}
+
+.nav-actions a:hover {
+  color: #007bff;
+}
+
+
+.banner {
+  margin: 0;
+  padding: 0;
+}
+
+.banner-images img {
+  width: 100vw;      /*  Full screen width */
+  height: auto;
+  display: block;    /* Remove bottom spacing */
+  object-fit: cover; /* Optional: crop to fit nicely */
+}
+.logo img {
+  height: 50px; /* adjust size as needed */
+  object-fit: contain;
+}
+.category-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
